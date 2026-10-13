@@ -1,0 +1,414 @@
+Client_ID,Company_Name,Company_Liaison,Liaison_Phone,Referring_Agent,Account_Status,Client_Type,Initiation_Date,Active_Date,Termed_Date
+CLI-0001,Apex 946 Global,Michael Rodriguez,558-868-6851,Casey Foster,Active,"B, P, Q",2022-07-28,2022-09-02,N/A
+CLI-0002,Horizon 462 Corp.,Mary Anderson,656-788-3498,Morgan Allen,Terming,G,2022-12-09,2023-01-20,N/A
+CLI-0003,Vertex 694 Partners,Nicole Martin,427-463-3665,Taylor Reed,Active,"G, P, Q",2024-09-17,2024-10-18,N/A
+CLI-0004,Omega 243 Group,Brian Thomas,333-899-7076,Taylor Reed,Initiation,"B, G",2024-06-25,N/A,N/A
+CLI-0005,Horizon 820 Holdings,David Hernandez,536-543-9838,Taylor Reed,Active,"B, G, Q",2023-06-11,2023-06-29,N/A
+CLI-0006,Alpha 512 Inc.,James Smith,314-239-1849,Alex Brooks,Active,"B, P",2021-03-14,2021-04-18,N/A
+CLI-0007,Echo 731 Solutions,Patricia Johnson,215-849-0231,Jordan Gray,Active,Q,2022-11-05,2022-12-10,N/A
+CLI-0008,Delta 105 Ventures,Robert Williams,404-732-9184,Morgan Allen,Termed,"P, G",2020-05-19,2020-06-25,2023-08-14
+CLI-0009,Omega 382 Dynamics,Jennifer Brown,617-593-0192,Casey Foster,Active,B,2023-01-11,2023-02-15,N/A
+CLI-0010,Sigma 624 Corp.,Michael Jones,713-482-9301,Pat Davis,Initiation,"B, P, G",2025-10-01,N/A,N/A
+CLI-0011,Vertex 115 Systems,Linda Garcia,206-394-8210,Taylor Reed,Active,P,2021-08-24,2021-09-30,N/A
+CLI-0012,Quantum 890 Tech,Elizabeth Miller,415-283-9104,Alex Brooks,Termed,Q,2019-11-12,2019-12-20,2022-04-05
+CLI-0013,Apex 402 Logistics,David Davis,305-692-8147,Jordan Gray,Active,"B, Q",2022-04-03,2022-05-10,N/A
+CLI-0014,Horizon 233 Industries,Barbara Rodriguez,612-401-2938,Morgan Allen,Active,G,2023-07-22,2023-08-25,N/A
+CLI-0015,Echo 914 Labs,William Martinez,602-519-3847,Casey Foster,Active,"P, Q",2024-02-28,2024-04-01,N/A
+CLI-0016,Delta 302 Media,Susan Hernandez,214-638-4920,Pat Davis,Terming,B,2023-09-15,2023-10-20,N/A
+CLI-0017,Alpha 144 Consulting,Joseph Lopez,312-749-5831,Taylor Reed,Active,G,2021-06-08,2021-07-12,N/A
+CLI-0018,Omega 705 Global,Jessica Gonzalez,813-294-0193,Alex Brooks,Active,"B, P, G, Q",2022-10-19,2022-11-28,N/A
+CLI-0019,Sigma 312 Group,Thomas Wilson,619-384-9201,Jordan Gray,Termed,P,2020-01-30,2020-03-05,2024-11-12
+CLI-0020,Vertex 543 Networks,Sarah Anderson,503-492-1094,Morgan Allen,Active,B,2023-05-14,2023-06-20,N/A
+CLI-0021,Quantum 221 Solutions,Charles Thomas,412-384-9102,Casey Foster,Initiation,Q,2025-09-18,N/A,N/A
+CLI-0022,Apex 607 International,Karen Taylor,248-593-8104,Pat Davis,Active,"G, Q",2022-08-02,2022-09-08,N/A
+CLI-0023,Horizon 109 Energy,Christopher Moore,704-293-8194,Taylor Reed,Active,P,2023-12-11,2024-01-20,N/A
+CLI-0024,Echo 455 Capital,Nancy Jackson,972-483-9102,Alex Brooks,Termed,B,2018-04-25,2018-06-01,2021-09-30
+CLI-0025,Delta 820 Concepts,Daniel Martin,303-592-8104,Jordan Gray,Active,"P, G",2024-03-09,2024-04-15,N/A
+CLI-0026,Alpha 990 Software,Lisa Lee,904-384-9102,Morgan Allen,Active,Q,2022-02-17,2022-03-25,N/A
+CLI-0027,Omega 123 Automation,Matthew Perez,512-293-8104,Casey Foster,Terming,"B, P",2023-05-22,2023-06-30,N/A
+CLI-0028,Sigma 876 Security,Betty Thompson,414-394-8102,Pat Davis,Active,G,2021-11-04,2021-12-10,N/A
+CLI-0029,Vertex 432 Manufacturing,Anthony White,316-483-9102,Taylor Reed,Active,"B, Q",2024-07-19,2024-08-25,N/A
+CLI-0030,Quantum 654 Retail,Sandra Harris,804-593-8104,Alex Brooks,Termed,"P, Q",2019-08-11,2019-09-20,2023-02-14
+CLI-0031,Apex 789 Analytics,Mark Sanchez,201-384-9102,Jordan Gray,Active,B,2023-10-05,2023-11-12,N/A
+CLI-0032,Horizon 345 Bio,Ashley Clark,502-293-8104,Morgan Allen,Initiation,G,2025-08-29,N/A,N/A
+CLI-0033,Echo 210 Wireless,Donald Ramirez,239-394-8102,Casey Foster,Active,P,2022-03-14,2022-04-20,N/A
+CLI-0034,Delta 567 Creative,Kimberly Lewis,616-483-9102,Pat Davis,Active,Q,2024-01-22,2024-03-01,N/A
+CLI-0035,Alpha 843 Logistics,Steven Robinson,253-593-8104,Taylor Reed,Termed,"B, G",2020-06-18,2020-07-25,2024-05-10
+CLI-0036,Omega 432 Prime,Emily Walker,405-384-9102,Alex Brooks,Active,P,2023-04-09,2023-05-15,N/A
+CLI-0037,Sigma 918 Health,Paul Young,919-293-8104,Jordan Gray,Active,G,2021-09-27,2021-11-02,N/A
+CLI-0038,Vertex 201 Real Estate,Donna Allen,817-394-8102,Morgan Allen,Terming,"B, P, Q",2022-12-14,2023-01-22,N/A
+CLI-0039,Quantum 743 Construction,Andrew King,601-483-9102,Casey Foster,Active,Q,2024-05-03,2024-06-10,N/A
+CLI-0040,Apex 156 Hospitality,Michelle Wright,913-593-8104,Pat Davis,Active,"B, G",2023-08-21,2023-09-30,N/A
+CLI-0041,Horizon 684 Legal,Joshua Scott,302-384-9102,Taylor Reed,Termed,P,2018-10-12,2018-11-20,2022-07-18
+CLI-0042,Echo 529 Entertainment,Carol Torres,719-293-8104,Alex Brooks,Active,G,2022-06-05,2022-07-12,N/A
+CLI-0043,Delta 912 Finance,Kevin Nguyen,225-394-8102,Jordan Gray,Active,"P, Q",2024-11-14,2024-12-20,N/A
+CLI-0044,Alpha 376 Auto,Amanda Hill,505-483-9102,Morgan Allen,Initiation,B,2025-07-04,N/A,N/A
+CLI-0045,Omega 614 Aviation,Brian Flores,702-593-8104,Casey Foster,Active,G,2023-02-27,2023-04-05,N/A
+CLI-0046,Sigma 289 Agriculture,Stephanie Green,605-384-9102,Pat Davis,Active,P,2021-05-19,2021-06-25,N/A
+CLI-0047,Vertex 831 Apparel,Edward Adams,207-293-8104,Taylor Reed,Termed,Q,2019-03-08,2019-04-15,2023-11-01
+CLI-0048,Quantum 499 Marine,Kathleen Nelson,406-394-8102,Alex Brooks,Active,"B, P",2024-08-30,2024-10-05,N/A
+CLI-0049,Apex 312 Machinery,Ronald Baker,319-483-9102,Jordan Gray,Active,G,2022-01-15,2022-02-22,N/A
+CLI-0050,Horizon 905 Textils,Angela Hall,860-593-8104,Morgan Allen,Active,"B, Q",2023-11-22,2023-12-30,N/A
+CLI-0051,Alpha 112 Corp.,Barbara Davis,222-381-4091,Morgan Allen,Active,"G, P, Q",2024-03-12,2024-04-19,N/A
+CLI-0052,Alpha 215 Dynamics,Thomas Williams,615-201-9482,Alex Brooks,Active,B,2021-06-18,2021-07-22,N/A
+CLI-0053,Alpha 318 Ventures,Jessica Smith,702-491-0394,Pat Davis,Termed,P,2022-01-10,2022-02-18,2023-09-14
+CLI-0054,Alpha 441 Solutions,Daniel Johnson,813-591-2094,Jordan Gray,Active,"B, G, Q",2023-11-05,2023-12-11,N/A
+CLI-0055,Alpha 582 Systems,Linda Miller,415-392-1094,Casey Foster,Active,Q,2024-07-22,2024-08-30,N/A
+CLI-0056,Alpha 619 Global,James Brown,312-401-2948,Taylor Reed,Initiation,"B, P",2025-08-14,N/A,N/A
+CLI-0057,Alpha 734 Inc.,Mary Rodriguez,206-849-0129,Morgan Allen,Active,G,2020-04-19,2020-05-25,N/A
+CLI-0058,Alpha 821 Partners,Michael Jones,214-732-9184,Pat Davis,Terming,"P, Q",2023-09-02,2023-10-15,N/A
+CLI-0059,Alpha 947 Group,Patricia Garcia,713-394-8210,Jordan Gray,Active,B,2022-02-28,2022-04-03,N/A
+CLI-0060,Apex 109 Holdco,Robert Martinez,305-283-9104,Casey Foster,Termed,"B, P, G",2021-10-12,2021-11-20,2024-03-18
+CLI-0061,Apex 244 Tech,Jennifer Hernandez,612-692-8147,Taylor Reed,Active,P,2024-05-14,2024-06-20,N/A
+CLI-0062,Apex 381 Labs,William Lopez,602-401-2938,Morgan Allen,Active,Q,2023-01-22,2023-03-01,N/A
+CLI-0063,Apex 519 Media,Elizabeth Gonzalez,215-519-3847,Pat Davis,Active,"B, Q",2022-08-02,2022-09-08,N/A
+CLI-0064,Apex 672 Ventures,David Wilson,404-638-4920,Jordan Gray,Initiation,G,2025-06-25,N/A,N/A
+CLI-0065,Apex 701 Solutions,Susan Anderson,617-749-5831,Casey Foster,Active,"P, Q",2021-12-11,2022-01-20,N/A
+CLI-0066,Apex 833 Networks,Joseph Thomas,713-294-0193,Taylor Reed,Terming,B,2024-02-17,2024-03-25,N/A
+CLI-0067,Apex 995 Systems,Sarah Taylor,206-384-9201,Morgan Allen,Active,G,2023-05-22,2023-06-30,N/A
+CLI-0068,Delta 112 Logistics,Charles Moore,415-492-1094,Pat Davis,Active,"B, P, G, Q",2022-11-04,2022-12-10,N/A
+CLI-0069,Delta 234 Industries,Karen Jackson,305-384-9102,Jordan Gray,Termed,P,2020-03-09,2020-04-15,2022-11-12
+CLI-0070,Delta 389 Consulting,Christopher Martin,612-593-8104,Casey Foster,Active,B,2023-07-19,2023-08-25,N/A
+CLI-0071,Delta 490 Global,Nancy Lee,602-293-8194,Taylor Reed,Initiation,Q,2025-04-09,N/A,N/A
+CLI-0072,Delta 521 Corp.,Daniel Perez,214-483-9102,Morgan Allen,Active,"G, Q",2024-01-22,2024-03-01,N/A
+CLI-0073,Delta 682 Partners,Lisa Thompson,312-384-9102,Pat Davis,Active,P,2022-09-27,2022-11-02,N/A
+CLI-0074,Delta 745 Group,Matthew White,813-293-8104,Jordan Gray,Termed,B,2019-06-18,2019-07-25,2021-12-14
+CLI-0075,Delta 891 Holdings,Betty Harris,619-394-8102,Casey Foster,Active,"P, G",2023-12-14,2024-01-22,N/A
+CLI-0076,Delta 914 Inc.,Anthony Sanchez,503-483-9102,Taylor Reed,Active,Q,2021-08-30,2021-10-05,N/A
+CLI-0077,Echo 144 Solutions,Sandra Clark,412-593-8104,Morgan Allen,Terming,"B, P",2024-05-03,2024-06-10,N/A
+CLI-0078,Echo 289 Ventures,Mark Ramirez,248-384-9102,Pat Davis,Active,G,2022-10-05,2022-11-12,N/A
+CLI-0079,Echo 312 Systems,Ashley Lewis,704-293-8104,Jordan Gray,Active,"B, Q",2023-02-27,2023-04-05,N/A
+CLI-0080,Echo 495 Global,Donald Robinson,972-394-8102,Casey Foster,Termed,"P, Q",2020-11-22,2020-12-30,2023-07-19
+CLI-0081,Echo 519 Corp.,Kimberly Walker,303-483-9102,Taylor Reed,Active,B,2024-11-14,2024-12-20,N/A
+CLI-0082,Echo 672 Partners,Steven Young,904-593-8104,Morgan Allen,Initiation,G,2025-09-18,N/A,N/A
+CLI-0083,Echo 701 Group,Emily Allen,512-384-9102,Pat Davis,Active,P,2021-04-25,2021-06-01,N/A
+CLI-0084,Echo 833 Holdings,Paul King,414-293-8104,Jordan Gray,Active,Q,2023-03-14,2023-04-20,N/A
+CLI-0085,Echo 995 Inc.,Donna Wright,316-394-8102,Casey Foster,Termed,"B, G",2018-08-11,2018-09-20,2021-05-10
+CLI-0086,Horizon 112 Logistics,Andrew Scott,804-483-9102,Taylor Reed,Active,P,2024-09-04,2024-10-12,N/A
+CLI-0087,Horizon 244 Industries,Michelle Torres,201-593-8104,Morgan Allen,Active,G,2022-05-14,2022-06-20,N/A
+CLI-0088,Horizon 381 Consulting,Joshua Nguyen,502-384-9102,Pat Davis,Terming,"B, P, Q",2023-11-08,2023-12-18,N/A
+CLI-0089,Horizon 519 Global,Carol Hill,239-293-8104,Jordan Gray,Active,Q,2024-08-21,2024-09-30,N/A
+CLI-0090,Horizon 672 Corp.,Kevin Flores,616-394-8102,Casey Foster,Active,"B, G",2023-03-09,2023-04-15,N/A
+CLI-0091,Horizon 701 Partners,Amanda Green,253-483-9102,Taylor Reed,Termed,P,2019-02-17,2019-03-25,2021-10-02
+CLI-0092,Horizon 833 Group,Brian Adams,405-593-8104,Morgan Allen,Active,G,2022-07-19,2022-08-25,N/A
+CLI-0093,Horizon 995 Holdings,Stephanie Nelson,919-384-9102,Pat Davis,Active,"P, Q",2023-10-05,2023-11-12,N/A
+CLI-0094,Matrix 105 Systems,Edward Baker,817-293-8104,Jordan Gray,Initiation,B,2025-11-22,N/A,N/A
+CLI-0095,Matrix 212 Tech,Kathleen Hall,601-394-8102,Casey Foster,Active,G,2024-01-22,2024-03-01,N/A
+CLI-0096,Matrix 389 Labs,Ronald Allen,913-483-9102,Taylor Reed,Active,P,2022-12-09,2023-01-20,N/A
+CLI-0097,Matrix 415 Media,Angela King,302-593-8104,Morgan Allen,Termed,Q,2020-05-19,2020-06-25,2023-04-11
+CLI-0098,Matrix 582 Ventures,Nicole Wright,719-384-9102,Pat Davis,Active,"B, P",2023-06-11,2023-06-29,N/A
+CLI-0099,Matrix 619 Solutions,Brian Scott,225-293-8104,Jordan Gray,Active,G,2024-06-11,2024-07-25,N/A
+CLI-0100,Matrix 734 Networks,David Torres,505-394-8102,Casey Foster,Active,"B, Q",2022-11-05,2022-12-10,N/A
+CLI-0101,Matrix 821 Systems,James Nguyen,702-483-9102,Taylor Reed,Active,"B, P, G",2023-04-09,2023-05-15,N/A
+CLI-0102,Matrix 947 Inc.,Patricia Hill,605-593-8104,Morgan Allen,Terming,P,2024-02-28,2024-04-01,N/A
+CLI-0103,Nova 144 Logistics,Robert Flores,207-384-9102,Pat Davis,Active,Q,2021-09-07,2021-10-07,N/A
+CLI-0104,Nova 289 Industries,Jennifer Green,406-293-8104,Jordan Gray,Active,"B, G",2022-04-03,2022-05-10,N/A
+CLI-0105,Nova 312 Consulting,William Adams,319-394-8102,Casey Foster,Termed,P,2019-11-12,2019-12-20,2022-08-14
+CLI-0106,Nova 495 Global,Elizabeth Nelson,860-483-9102,Taylor Reed,Active,G,2023-09-15,2023-10-20,N/A
+CLI-0107,Nova 519 Corp.,David Baker,222-593-8104,Morgan Allen,Active,"P, Q",2021-03-14,2021-04-18,N/A
+CLI-0108,Nova 672 Partners,Susan Hall,615-384-9102,Pat Davis,Initiation,B,2025-08-29,N/A,N/A
+CLI-0109,Nova 701 Group,Joseph Wright,702-293-8104,Jordan Gray,Active,G,2024-11-14,2024-12-20,N/A
+CLI-0110,Nova 833 Holdings,Sarah Scott,813-394-8102,Casey Foster,Active,P,2022-08-02,2022-09-08,N/A
+CLI-0111,Nova 995 Inc.,Charles Torres,415-483-9102,Taylor Reed,Termed,Q,2020-01-30,2020-03-05,2024-02-14
+CLI-0112,Omega 112 Solutions,Karen Nguyen,312-593-8104,Morgan Allen,Active,"B, P",2023-01-11,2023-02-15,N/A
+CLI-0113,Omega 244 Ventures,Christopher Hill,206-384-9102,Pat Davis,Active,G,2024-03-09,2024-04-15,N/A
+CLI-0114,Omega 381 Systems,Nancy Flores,214-293-8104,Jordan Gray,Terming,"B, Q",2023-12-11,2024-01-20,N/A
+CLI-0115,Omega 519 Global,Daniel Green,713-394-8102,Casey Foster,Active,"B, P, G",2022-06-05,2022-07-12,N/A
+CLI-0116,Omega 672 Corp.,Lisa Adams,305-483-9102,Taylor Reed,Active,P,2021-06-08,2021-07-12,N/A
+CLI-0117,Omega 701 Partners,Matthew Nelson,612-593-8104,Morgan Allen,Termed,Q,2018-04-25,2018-06-01,2021-05-19
+CLI-0118,Omega 833 Group,Betty Baker,602-384-9102,Pat Davis,Active,"B, G",2023-05-14,2023-06-20,N/A
+CLI-0119,Omega 995 Holdings,Anthony Hall,215-293-8104,Jordan Gray,Active,P,2022-02-17,2022-03-25,N/A
+CLI-0120,Quantum 105 Logistics,Sandra Wright,404-394-8102,Casey Foster,Initiation,G,2025-07-04,N/A,N/A
+CLI-0121,Quantum 212 Industries,Mark Smith,617-483-9102,Taylor Reed,Active,"P, Q",2024-07-19,2024-08-25,N/A
+CLI-0122,Quantum 389 Consulting,Ashley Johnson,713-593-8104,Morgan Allen,Active,B,2021-11-24,2021-12-24,N/A
+CLI-0123,Quantum 415 Global,Donald Williams,206-384-9102,Pat Davis,Termed,G,2019-08-11,2019-09-20,2022-11-04
+CLI-0124,Quantum 582 Corp.,Kimberly Brown,415-293-8104,Jordan Gray,Active,"B, P",2023-10-19,2023-11-28,N/A
+CLI-0125,Quantum 619 Partners,Steven Jones,305-394-8102,Casey Foster,Active,Q,2022-07-28,2022-09-02,N/A
+CLI-0126,Quantum 734 Group,Emily Garcia,612-483-9102,Taylor Reed,Active,G,2024-05-14,2024-06-20,N/A
+CLI-0127,Quantum 821 Holdings,Paul Miller,602-593-8104,Morgan Allen,Terming,"B, Q",2024-02-28,2024-04-01,N/A
+CLI-0128,Quantum 947 Inc.,Donna Davis,214-384-9102,Pat Davis,Active,"B, P, G",2021-11-08,2021-12-08,N/A
+CLI-0129,Sigma 144 Solutions,Andrew Rodriguez,312-293-8104,Jordan Gray,Active,P,2023-01-22,2023-03-01,N/A
+CLI-0130,Sigma 289 Ventures,Michelle Hernandez,813-394-8102,Casey Foster,Termed,Q,2020-06-18,2020-07-25,2024-01-15
+CLI-0131,Sigma 312 Systems,Joshua Lopez,619-483-9102,Taylor Reed,Active,"B, G",2023-08-21,2023-09-30,N/A
+CLI-0132,Sigma 495 Global,Carol Gonzalez,503-593-8104,Morgan Allen,Active,P,2022-03-14,2022-04-20,N/A
+CLI-0133,Sigma 519 Corp.,Kevin Wilson,412-384-9102,Pat Davis,Initiation,G,2025-10-01,N/A,N/A
+CLI-0134,Sigma 672 Partners,Amanda Anderson,248-293-8104,Jordan Gray,Active,"P, Q",2024-01-22,2024-03-01,N/A
+CLI-0135,Sigma 701 Group,Brian Thomas,704-394-8102,Casey Foster,Active,B,2021-09-27,2021-11-02,N/A
+CLI-0136,Sigma 833 Holdings,Stephanie Hernandez,972-483-9102,Taylor Reed,Termed,G,2018-10-12,2018-11-20,2021-08-30
+CLI-0137,Sigma 995 Inc.,Edward Smith,303-593-8104,Morgan Allen,Active,"B, P",2023-04-09,2023-05-15,N/A
+CLI-0138,Vertex 112 Logistics,Kathleen Johnson,904-384-9102,Pat Davis,Active,Q,2022-12-09,2023-01-20,N/A
+CLI-0139,Vertex 244 Industries,Ronald Williams,512-293-8104,Jordan Gray,Terming,G,2023-11-08,2023-12-18,N/A
+CLI-0140,Vertex 381 Consulting,Angela Brown,414-394-8102,Casey Foster,Active,"B, Q",2024-08-30,2024-10-05,N/A
+CLI-0141,Vertex 519 Global,Nicole Jones,316-483-9102,Taylor Reed,Active,"B, P, G",2021-05-19,2021-06-25,N/A
+CLI-0142,Vertex 672 Corp.,Brian Garcia,804-593-8104,Morgan Allen,Termed,P,2019-03-08,2019-04-15,2022-07-19
+CLI-0143,Vertex 701 Partners,David Miller,201-384-9102,Pat Davis,Active,Q,2023-06-11,2023-06-29,N/A
+CLI-0144,Vertex 833 Group,Susan Davis,502-293-8104,Jordan Gray,Active,"B, G",2022-05-14,2022-06-20,N/A
+CLI-0145,Vertex 995 Holdings,Joseph Rodriguez,239-394-8102,Casey Foster,Initiation,P,2025-08-14,N/A,N/A
+CLI-0146,Zenith 105 Systems,Sarah Anderson,616-483-9102,Taylor Reed,Active,G,2024-03-12,2024-04-19,N/A
+CLI-0147,Zenith 212 Tech,Charles Martin,253-593-8104,Morgan Allen,Active,"P, Q",2021-08-24,2021-09-30,N/A
+CLI-0148,Zenith 389 Labs,Karen Thomas,405-384-9102,Pat Davis,Termed,B,2020-01-30,2020-03-05,2023-05-14
+CLI-0149,Zenith 415 Media,Christopher Hernandez,919-293-8104,Jordan Gray,Active,G,2023-01-11,2023-02-15,N/A
+CLI-0150,Zenith 582 Ventures,Nancy Smith,817-394-8102,Casey Foster,Active,"B, P",2024-06-25,2024-08-01,N/A
+CLI-0151,Zenith 619 Solutions,Daniel Johnson,601-483-9102,Taylor Reed,Active,Q,2022-02-17,2022-03-25,N/A
+CLI-0152,Zenith 734 Networks,Lisa Miller,913-593-8104,Morgan Allen,Terming,"B, G, Q",2024-03-09,2024-04-15,N/A
+CLI-0153,Zenith 821 Systems,Matthew Brown,302-384-9102,Pat Davis,Active,P,2023-05-22,2023-06-30,N/A
+CLI-0154,Zenith 947 Inc.,Betty Jones,719-293-8104,Jordan Gray,Active,G,2021-11-04,2021-12-10,N/A
+CLI-0155,Alpha 119 Logistics,Anthony Garcia,225-394-8102,Casey Foster,Termed,"B, Q",2019-11-12,2019-12-20,2023-01-11
+CLI-0156,Alpha 243 Industries,Sandra Martinez,505-483-9102,Taylor Reed,Active,P,2024-07-19,2024-08-25,N/A
+CLI-0157,Alpha 302 Consulting,Mark Hernandez,702-593-8104,Morgan Allen,Active,G,2022-04-03,2022-05-10,N/A
+CLI-0158,Alpha 455 Global,Ashley Lopez,605-384-9102,Pat Davis,Initiation,"P, Q",2025-07-04,N/A,N/A
+CLI-0159,Alpha 567 Corp.,Donald Gonzalez,207-293-8104,Jordan Gray,Active,B,2023-10-05,2023-11-12,N/A
+CLI-0160,Alpha 654 Partners,Kimberly Wilson,406-394-8102,Casey Foster,Active,G,2022-08-02,2022-09-08,N/A
+CLI-0161,Alpha 789 Group,Steven Anderson,319-483-9102,Taylor Reed,Terming,"B, P, G",2024-02-17,2024-03-25,N/A
+CLI-0162,Alpha 843 Holdings,Emily Thomas,860-593-8104,Morgan Allen,Active,Q,2023-05-14,2023-06-20,N/A
+CLI-0163,Alpha 918 Inc.,Paul Taylor,222-384-9102,Pat Davis,Active,"B, G",2022-11-04,2022-12-10,N/A
+CLI-0164,Apex 123 Solutions,Donna Moore,615-293-8104,Jordan Gray,Termed,P,2018-08-11,2018-09-20,2021-04-25
+CLI-0165,Apex 210 Ventures,Andrew Jackson,702-394-8102,Casey Foster,Active,G,2024-01-22,2024-03-01,N/A
+CLI-0166,Apex 345 Systems,Michelle Martin,813-483-9102,Taylor Reed,Active,Q,2022-12-09,2023-01-20,N/A
+CLI-0167,Apex 432 Global,Joshua Lee,415-593-8104,Morgan Allen,Initiation,"B, P",2025-09-18,N/A,N/A
+CLI-0168,Apex 567 Corp.,Carol Perez,312-384-9102,Pat Davis,Active,G,2023-11-05,2023-12-11,N/A
+CLI-0169,Apex 614 Partners,Kevin Thompson,206-293-8104,Jordan Gray,Active,P,2021-06-08,2021-07-12,N/A
+CLI-0170,Apex 743 Group,Amanda White,214-394-8102,Casey Foster,Termed,"P, Q",2020-01-30,2020-03-05,2022-11-22
+CLI-0171,Apex 820 Holdings,Brian Harris,713-483-9102,Taylor Reed,Active,B,2024-05-14,2024-06-20,N/A
+CLI-0172,Apex 905 Inc.,Stephanie Sanchez,305-593-8104,Morgan Allen,Active,G,2022-07-28,2022-09-02,N/A
+CLI-0173,Delta 144 Logistics,Edward Clark,612-384-9102,Pat Davis,Terming,"B, Q",2023-12-11,2024-01-20,N/A
+CLI-0174,Delta 289 Industries,Kathleen Ramirez,602-293-8104,Jordan Gray,Active,"B, P, G",2022-06-05,2022-07-12,N/A
+CLI-0175,Delta 312 Consulting,Ronald Lewis,215-394-8102,Casey Foster,Active,P,2021-03-14,2021-04-18,N/A
+CLI-0176,Delta 495 Global,Angela Robinson,404-483-9102,Taylor Reed,Termed,Q,2019-08-11,2019-09-20,2023-05-22
+CLI-0177,Delta 519 Corp.,Nicole Walker,617-593-8104,Morgan Allen,Active,"B, G",2023-04-09,2023-05-15,N/A
+CLI-0178,Delta 672 Partners,Brian Young,713-384-9102,Pat Davis,Active,P,2022-02-17,2022-03-25,N/A
+CLI-0179,Delta 701 Group,David Allen,206-293-8104,Jordan Gray,Initiation,G,2025-08-29,N/A,N/A
+CLI-0180,Delta 833 Holdings,Susan King,415-394-8102,Casey Foster,Active,"P, Q",2024-11-14,2024-12-20,N/A
+CLI-0181,Delta 995 Inc.,Joseph Wright,305-483-9102,Taylor Reed,Active,B,2021-11-24,2021-12-24,N/A
+CLI-0182,Echo 105 Solutions,Sarah Scott,612-593-8104,Morgan Allen,Termed,G,2020-05-19,2020-06-25,2024-03-09
+CLI-0183,Echo 212 Ventures,Charles Torres,602-384-9102,Pat Davis,Active,"B, P",2023-07-22,2023-08-25,N/A
+CLI-0184,Echo 389 Systems,Karen Nguyen,214-293-8104,Jordan Gray,Active,Q,2022-05-14,2022-06-20,N/A
+CLI-0185,Echo 415 Global,Christopher Hill,312-394-8102,Casey Foster,Terming,G,2023-11-08,2023-12-18,N/A
+CLI-0186,Echo 582 Corp.,Nancy Flores,813-483-9102,Taylor Reed,Active,"P, Q",2024-08-21,2024-09-30,N/A
+CLI-0187,Echo 619 Partners,Daniel Green,619-593-8104,Morgan Allen,Active,B,2023-01-11,2023-02-15,N/A
+CLI-0188,Echo 734 Group,Lisa Adams,503-384-9102,Pat Davis,Termed,G,2018-04-25,2018-06-01,2021-08-11
+CLI-0189,Echo 821 Holdings,Matthew Nelson,412-293-8104,Jordan Gray,Active,"B, G",2024-03-09,2024-04-15,N/A
+CLI-0190,Echo 947 Inc.,Betty Baker,248-394-8102,Casey Foster,Active,P,2021-09-27,2021-11-02,N/A
+CLI-0191,Horizon 144 Logistics,Anthony Hall,704-483-9102,Taylor Reed,Initiation,Q,2025-10-01,N/A,N/A
+CLI-0192,Horizon 289 Industries,Sandra Wright,972-593-8104,Morgan Allen,Active,"P, G",2024-01-22,2024-03-01,N/A
+CLI-0193,Horizon 312 Consulting,Mark Smith,303-384-9102,Pat Davis,Active,B,2023-03-09,2023-04-15,N/A
+CLI-0194,Horizon 495 Global,Ashley Johnson,904-293-8104,Jordan Gray,Termed,G,2019-02-17,2019-03-25,2022-05-14
+CLI-0195,Horizon 519 Corp.,Donald Williams,512-394-8102,Casey Foster,Active,"B, P",2023-08-21,2023-09-30,N/A
+CLI-0196,Horizon 672 Partners,Kimberly Brown,414-483-9102,Taylor Reed,Active,Q,2022-01-15,2022-02-22,N/A
+CLI-0197,Horizon 701 Group,Steven Jones,316-593-8104,Morgan Allen,Terming,G,2024-06-11,2024-07-25,N/A
+CLI-0198,Horizon 833 Holdings,Emily Garcia,804-384-9102,Pat Davis,Active,"B, Q",2023-06-11,2023-06-29,N/A
+CLI-0199,Horizon 995 Inc.,Paul Miller,201-293-8104,Jordan Gray,Active,"B, P, G",2021-05-19,2021-06-25,N/A
+CLI-0200,Matrix 112 Solutions,Donna Davis,502-394-8102,Casey Foster,Termed,P,2020-06-18,2020-07-25,2024-11-14
+CLI-0201,Matrix 244 Ventures,Andrew Rodriguez,239-483-9102,Taylor Reed,Active,Q,2023-10-05,2023-11-12,N/A
+CLI-0202,Matrix 381 Systems,Michelle Hernandez,616-593-8104,Morgan Allen,Active,"B, G",2022-09-27,2022-11-02,N/A
+CLI-0203,Matrix 519 Global,Joshua Lopez,253-384-9102,Pat Davis,Initiation,P,2025-11-22,N/A,N/A
+CLI-0204,Matrix 672 Corp.,Carol Gonzalez,405-293-8104,Jordan Gray,Active,G,2024-03-12,2024-04-19,N/A
+CLI-0205,Matrix 701 Partners,Kevin Wilson,919-394-8102,Casey Foster,Active,"P, Q",2021-08-24,2021-09-30,N/A
+CLI-0206,Matrix 833 Group,Amanda Anderson,817-483-9102,Taylor Reed,Termed,B,2018-10-12,2018-11-20,2022-01-15
+CLI-0207,Matrix 995 Holdings,Brian Thomas,601-593-8104,Morgan Allen,Active,G,2023-11-22,2023-12-30,N/A
+CLI-0208,Nova 105 Logistics,Stephanie Hernandez,913-384-9102,Pat Davis,Active,"B, P",2022-11-05,2022-12-10,N/A
+CLI-0209,Nova 212 Industries,Edward Smith,302-293-8104,Jordan Gray,Terming,Q,2024-08-30,2024-10-05,N/A
+CLI-0210,Nova 389 Consulting,Kathleen Johnson,719-394-8102,Casey Foster,Active,G,2024-02-28,2024-04-01,N/A
+CLI-0211,Nova 415 Global,Ronald Williams,225-483-9102,Taylor Reed,Active,"B, Q",2021-11-08,2021-12-08,N/A
+CLI-0212,Nova 582 Corp.,Angela Brown,505-593-8104,Morgan Allen,Termed,"B, P, G",2019-03-08,2019-04-15,2023-11-22
+CLI-0213,Nova 619 Partners,Nicole Jones,702-384-9102,Pat Davis,Active,P,2023-01-22,2023-03-01,N/A
+CLI-0214,Nova 734 Group,Brian Garcia,605-293-8104,Jordan Gray,Active,Q,2022-05-14,2022-06-20,N/A
+CLI-0215,Nova 821 Holdings,David Miller,207-394-8102,Casey Foster,Initiation,"B, G",2025-08-14,N/A,N/A
+CLI-0216,Nova 947 Inc.,Susan Davis,406-483-9102,Taylor Reed,Active,P,2024-09-04,2024-10-12,N/A
+CLI-0217,Omega 144 Solutions,Joseph Rodriguez,319-593-8104,Morgan Allen,Active,G,2021-09-07,2021-10-07,N/A
+CLI-0218,Omega 289 Ventures,Sarah Anderson,860-384-9102,Pat Davis,Termed,"P, Q",2019-11-12,2019-12-20,2023-08-21
+CLI-0219,Omega 312 Systems,Charles Martin,222-293-8104,Jordan Gray,Active,B,2023-05-22,2023-06-30,N/A
+CLI-0220,Omega 495 Global,Karen Thomas,615-394-8102,Casey Foster,Active,G,2022-04-03,2022-05-10,N/A
+CLI-0221,Omega 519 Corp.,Christopher Hernandez,702-483-9102,Taylor Reed,Terming,"B, P",2023-12-11,2024-01-20,N/A
+CLI-0222,Omega 672 Partners,Nancy Smith,813-593-8104,Morgan Allen,Active,Q,2022-12-09,2023-01-20,N/A
+CLI-0223,Omega 701 Group,Daniel Johnson,415-384-9102,Pat Davis,Active,G,2024-06-25,2024-08-01,N/A
+CLI-0224,Omega 833 Holdings,Lisa Miller,312-293-8104,Jordan Gray,Termed,"B, Q",2020-01-30,2020-03-05,2024-03-12
+CLI-0225,Omega 995 Inc.,James Brown,206-394-8102,Casey Foster,Active,"B, P, G",2023-02-27,2023-04-05,N/A
+CLI-0226,Quantum 112 Solutions,Mary Rodriguez,214-483-9102,Taylor Reed,Active,P,2021-11-24,2021-12-24,N/A
+CLI-0227,Quantum 244 Ventures,Michael Jones,713-593-8104,Morgan Allen,Initiation,Q,2025-07-04,N/A,N/A
+CLI-0228,Quantum 381 Systems,Patricia Garcia,305-384-9102,Pat Davis,Active,"B, G",2024-07-19,2024-08-25,N/A
+CLI-0229,Quantum 519 Global,Robert Martinez,612-293-8104,Jordan Gray,Active,P,2021-03-14,2021-04-18,N/A
+CLI-0230,Quantum 672 Corp.,Jennifer Hernandez,602-394-8102,Casey Foster,Termed,G,2018-04-25,2018-06-01,2021-11-08
+CLI-0231,Quantum 701 Partners,William Lopez,215-483-9102,Taylor Reed,Active,"P, Q",2023-10-19,2023-11-28,N/A
+CLI-0232,Quantum 833 Group,Elizabeth Gonzalez,404-593-8104,Morgan Allen,Active,B,2022-07-28,2022-09-02,N/A
+CLI-0233,Quantum 995 Holdings,David Wilson,617-384-9102,Pat Davis,Terming,G,2024-05-14,2024-06-20,N/A
+CLI-0234,Sigma 105 Logistics,Susan Anderson,713-293-8104,Jordan Gray,Active,"B, P",2023-01-11,2023-02-15,N/A
+CLI-0235,Sigma 212 Industries,Joseph Thomas,206-394-8102,Casey Foster,Active,Q,2024-03-09,2024-04-15,N/A
+CLI-0236,Sigma 389 Consulting,Sarah Taylor,415-483-9102,Taylor Reed,Termed,G,2019-08-11,2019-09-20,2022-12-09
+CLI-0237,Sigma 415 Global,Charles Moore,305-593-8104,Morgan Allen,Active,"B, Q",2023-06-11,2023-06-29,N/A
+CLI-0238,Sigma 582 Corp.,Karen Jackson,612-384-9102,Pat Davis,Active,"B, P, G",2022-11-04,2022-12-10,N/A
+CLI-0239,Sigma 619 Partners,Christopher Martin,602-293-8104,Jordan Gray,Active,P,2024-01-22,2024-03-01,N/A
+CLI-0240,Sigma 734 Group,Nancy Lee,214-394-8102,Casey Foster,Initiation,Q,2025-09-18,N/A,N/A
+CLI-0241,Nova 914 Labs,Kevin Wright,904-384-9102,Taylor Reed,Active,"B, P",2023-04-09,2023-05-15,N/A
+CLI-0242,Quantum 105 Tech,Amanda Scott,512-293-8104,Morgan Allen,Active,Q,2022-12-09,2023-01-20,N/A
+CLI-0243,Quantum 243 Systems,Brian Torres,414-394-8102,Pat Davis,Terming,G,2023-11-08,2023-12-18,N/A
+CLI-0244,Quantum 382 Holdings,Stephanie Nguyen,316-483-9102,Jordan Gray,Active,"B, Q",2024-08-30,2024-10-05,N/A
+CLI-0245,Quantum 512 Group,Edward Hill,804-593-8104,Casey Foster,Active,"B, P, G",2021-05-19,2021-06-25,N/A
+CLI-0246,Quantum 624 Corp.,Kathleen Flores,201-384-9102,Taylor Reed,Termed,P,2019-03-08,2019-04-15,2022-07-19
+CLI-0247,Quantum 731 Solutions,Ronald Green,502-293-8104,Morgan Allen,Active,Q,2023-06-11,2023-06-29,N/A
+CLI-0248,Quantum 890 Partners,Angela Adams,239-394-8102,Pat Davis,Active,"B, G",2022-05-14,2022-06-20,N/A
+CLI-0249,Quantum 914 Labs,Nicole Nelson,616-483-9102,Jordan Gray,Initiation,P,2025-08-14,N/A,N/A
+CLI-0250,Sigma 115 Systems,Brian Baker,253-593-8104,Casey Foster,Active,G,2024-03-12,2024-04-19,N/A
+CLI-0251,Sigma 243 Systems,David Hall,405-384-9102,Taylor Reed,Active,"P, Q",2021-08-24,2021-09-30,N/A
+CLI-0252,Sigma 382 Holdings,Susan Wright,919-293-8104,Morgan Allen,Termed,B,2020-01-30,2020-03-05,2023-05-14
+CLI-0253,Sigma 512 Group,Joseph Scott,817-394-8102,Pat Davis,Active,G,2023-01-11,2023-02-15,N/A
+CLI-0254,Sigma 624 Corp.,Sarah Torres,601-483-9102,Jordan Gray,Active,"B, P",2024-06-25,2024-08-01,N/A
+CLI-0255,Sigma 731 Solutions,Charles Nguyen,913-593-8104,Casey Foster,Active,Q,2022-07-28,2022-09-02,N/A
+CLI-0256,Sigma 890 Partners,Karen Hill,302-384-9102,Taylor Reed,Active,G,2024-05-14,2024-06-20,N/A
+CLI-0257,Sigma 914 Labs,Christopher Flores,719-293-8104,Morgan Allen,Terming,"B, Q",2024-02-28,2024-04-01,N/A
+CLI-0258,Vertex 105 Tech,Nancy Green,225-293-8102,Pat Davis,Active,"B, P, G",2021-11-08,2021-12-08,N/A
+CLI-0259,Vertex 243 Systems,Daniel Adams,505-483-9102,Jordan Gray,Active,P,2023-01-22,2023-03-01,N/A
+CLI-0260,Vertex 382 Holdings,Lisa Nelson,702-593-8104,Casey Foster,Termed,Q,2020-06-18,2020-07-25,2024-01-15
+CLI-0261,Vertex 512 Group,Matthew Baker,605-384-9102,Taylor Reed,Active,"B, G",2023-08-21,2023-09-30,N/A
+CLI-0262,Vertex 624 Corp.,Betty Hall,207-293-8104,Morgan Allen,Active,P,2022-03-14,2022-04-20,N/A
+CLI-0263,Vertex 731 Solutions,Anthony Wright,406-394-8102,Pat Davis,Initiation,G,2025-10-01,N/A,N/A
+CLI-0264,Vertex 890 Partners,Sandra Scott,319-483-9102,Jordan Gray,Active,"P, Q",2024-01-22,2024-03-01,N/A
+CLI-0265,Vertex 914 Labs,Mark Torres,860-593-8104,Casey Foster,Active,B,2021-09-27,2021-11-02,N/A
+CLI-0266,Zenith 115 Systems,Ashley Nguyen,222-384-9102,Taylor Reed,Termed,G,2018-10-12,2018-11-20,2021-08-30
+CLI-0267,Zenith 233 Logistics,Donald Hill,615-293-8104,Morgan Allen,Active,"B, P",2023-04-09,2023-05-15,N/A
+CLI-0268,Zenith 302 Media,Kimberly Flores,702-394-8102,Pat Davis,Active,Q,2022-12-09,2023-01-20,N/A
+CLI-0269,Zenith 455 Capital,Steven Green,813-483-9102,Jordan Gray,Terming,G,2023-11-08,2023-12-18,N/A
+CLI-0270,Zenith 543 Networks,Emily Adams,415-593-8104,Casey Foster,Active,"B, Q",2024-08-30,2024-10-05,N/A
+CLI-0271,Zenith 624 Corp.,Paul Nelson,312-384-9102,Taylor Reed,Active,"B, P, G",2021-05-19,2021-05-25,N/A
+CLI-0272,Zenith 731 Solutions,Donna Baker,206-293-8104,Morgan Allen,Termed,P,2019-03-08,2019-04-15,2022-07-19
+CLI-0273,Zenith 890 Tech,Andrew Hall,214-394-8102,Pat Davis,Active,Q,2023-06-11,2023-06-29,N/A
+CLI-0274,Zenith 914 Labs,Michelle Wright,713-483-9102,Jordan Gray,Active,"B, G",2022-05-14,2022-06-20,N/A
+CLI-0275,Nova 105 Ventures,Joshua Scott,305-384-9102,Casey Foster,Initiation,P,2025-08-14,N/A,N/A
+CLI-0276,Nova 212 Tech,Carol Torres,612-293-8104,Taylor Reed,Active,G,2024-03-12,2024-04-19,N/A
+CLI-0277,Nova 389 Labs,Kevin Nguyen,602-394-8102,Morgan Allen,Active,"P, Q",2021-08-24,2021-09-30,N/A
+CLI-0278,Nova 415 Media,Amanda Hill,214-483-9102,Pat Davis,Termed,B,2020-01-30,2020-03-05,2023-05-14
+CLI-0279,Nova 582 Ventures,Brian Flores,312-384-9102,Jordan Gray,Active,G,2023-01-11,2023-02-15,N/A
+CLI-0280,Nova 619 Solutions,Stephanie Green,813-293-8104,Casey Foster,Active,"B, P",2024-06-25,2024-08-01,N/A
+CLI-0281,Nova 734 Group,Jason Taylor,512-482-9321,Taylor Reed,Active,Q,2022-07-28,2022-09-02,N/A
+CLI-0282,Nova 821 Systems,Jeffrey Anderson,415-382-9101,Morgan Allen,Active,G,2024-05-14,2024-06-20,N/A
+CLI-0283,Nova 947 Inc.,Ryan Thomas,305-691-8142,Pat Davis,Terming,"B, Q",2024-02-28,2024-04-01,N/A
+CLI-0284,Alpha 105 Tech,Gary Moore,612-402-2931,Jordan Gray,Active,"B, P, G",2021-11-08,2021-12-08,N/A
+CLI-0285,Alpha 243 Systems,Nicholas Jackson,602-512-3841,Casey Foster,Active,P,2023-01-22,2023-03-01,N/A
+CLI-0286,Alpha 382 Holdings,Eric Martin,214-632-4921,Taylor Reed,Termed,Q,2020-06-18,2020-07-25,2024-01-15
+CLI-0287,Alpha 512 Group,Jonathan Lee,312-742-5831,Morgan Allen,Active,"B, G",2023-08-21,2023-09-30,N/A
+CLI-0288,Alpha 624 Corp.,Larry Perez,813-292-0191,Pat Davis,Active,P,2022-03-14,2022-04-20,N/A
+CLI-0289,Alpha 731 Solutions,Justin Thompson,619-382-9201,Jordan Gray,Initiation,G,2025-10-01,N/A,N/A
+CLI-0290,Alpha 890 Partners,Scott White,503-492-1091,Casey Foster,Active,"P, Q",2024-01-22,2024-03-01,N/A
+CLI-0291,Alpha 914 Labs,Brandon Harris,412-382-9101,Taylor Reed,Active,B,2021-09-27,2021-11-02,N/A
+CLI-0292,Apex 115 Tech,Benjamin Sanchez,248-592-8101,Morgan Allen,Termed,G,2018-10-12,2018-11-20,2021-08-30
+CLI-0293,Apex 233 Systems,Samuel Clark,704-292-8191,Pat Davis,Active,"B, P",2023-04-09,2023-05-15,N/A
+CLI-0294,Apex 382 Holdings,Gregory Ramirez,972-482-9101,Jordan Gray,Active,Q,2022-12-09,2023-01-20,N/A
+CLI-0295,Apex 512 Group,Alexander Lewis,303-592-8101,Casey Foster,Terming,G,2023-11-08,2023-12-18,N/A
+CLI-0296,Apex 624 Corp.,Frank Robinson,904-382-9101,Taylor Reed,Active,"B, Q",2024-08-30,2024-10-05,N/A
+CLI-0297,Apex 731 Solutions,Raymond Walker,512-292-8101,Morgan Allen,Active,"B, P, G",2021-05-19,2021-06-25,N/A
+CLI-0298,Apex 890 Partners,Patrick Young,414-392-8101,Pat Davis,Termed,P,2019-03-08,2019-04-15,2022-07-19
+CLI-0299,Apex 914 Labs,Jack Allen,316-482-9101,Jordan Gray,Active,Q,2023-06-11,2023-06-29,N/A
+CLI-0300,Horizon 105 Tech,Dennis King,804-592-8101,Casey Foster,Active,"B, G",2022-05-14,2022-06-20,N/A
+CLI-0301,Horizon 243 Systems,Jerry Wright,201-382-9101,Taylor Reed,Initiation,P,2025-08-14,N/A,N/A
+CLI-0302,Horizon 382 Holdings,Tyler Scott,502-292-8101,Morgan Allen,Active,G,2024-03-12,2024-04-19,N/A
+CLI-0303,Horizon 512 Group,Aaron Torres,239-392-8101,Pat Davis,Active,"P, Q",2021-08-24,2021-09-30,N/A
+CLI-0304,Horizon 624 Corp.,Henry Nguyen,616-482-9101,Jordan Gray,Termed,B,2020-01-30,2020-03-05,2023-05-14
+CLI-0305,Horizon 731 Solutions,Douglas Hill,253-592-8101,Casey Foster,Active,G,2023-01-11,2023-02-15,N/A
+CLI-0306,Horizon 890 Partners,Peter Flores,405-382-9101,Taylor Reed,Active,"B, P",2024-06-25,2024-08-01,N/A
+CLI-0307,Horizon 914 Labs,Jose Green,919-292-8101,Morgan Allen,Active,Q,2022-07-28,2022-09-02,N/A
+CLI-0308,Matrix 115 Tech,Walter Adams,817-392-8101,Pat Davis,Active,G,2024-05-14,2024-06-20,N/A
+CLI-0309,Matrix 243 Systems,Kyle Nelson,601-482-9101,Jordan Gray,Terming,"B, Q",2024-02-28,2024-04-01,N/A
+CLI-0310,Matrix 382 Holdings,Carl Baker,913-592-8101,Casey Foster,Active,"B, P, G",2021-11-08,2021-12-08,N/A
+CLI-0311,Matrix 512 Group,Arthur Hall,302-382-9101,Taylor Reed,Active,P,2023-01-22,2023-03-01,N/A
+CLI-0312,Matrix 624 Corp.,Ryan Wright,719-292-8101,Morgan Allen,Termed,Q,2020-06-18,2020-07-25,2024-01-15
+CLI-0313,Matrix 731 Solutions,Lawrence Scott,225-392-8101,Pat Davis,Active,"B, G",2023-08-21,2023-09-30,N/A
+CLI-0314,Matrix 890 Partners,Roger Torres,505-392-8101,Jordan Gray,Active,P,2022-03-14,2022-04-20,N/A
+CLI-0315,Matrix 914 Labs,Albert Nguyen,702-482-9101,Casey Foster,Initiation,G,2025-10-01,N/A,N/A
+CLI-0316,Nova 115 Tech,Bruce Hill,605-592-8101,Taylor Reed,Active,"P, Q",2024-01-22,2024-03-01,N/A
+CLI-0317,Nova 243 Systems,Joe Flores,207-382-9101,Morgan Allen,Active,B,2021-09-27,2021-11-02,N/A
+CLI-0318,Nova 382 Holdings,Billy Green,406-292-8101,Pat Davis,Termed,G,2018-10-12,2018-11-20,2021-08-30
+CLI-0319,Nova 512 Group,Bryan Adams,319-392-8101,Jordan Gray,Active,"B, P",2023-04-09,2023-05-15,N/A
+CLI-0320,Nova 624 Corp.,Roy Nelson,860-482-9101,Casey Foster,Active,Q,2022-12-09,2023-01-20,N/A
+CLI-0321,Nova 731 Solutions,Eugene Baker,222-592-8101,Taylor Reed,Terming,G,2023-11-08,2023-12-18,N/A
+CLI-0322,Nova 890 Partners,Louis Hall,615-382-9101,Morgan Allen,Active,"B, Q",2024-08-30,2024-10-05,N/A
+CLI-0323,Nova 914 Labs,Harry Wright,702-292-8101,Pat Davis,Active,"B, P, G",2021-05-19,2021-06-25,N/A
+CLI-0324,Quantum 115 Systems,Wayne Scott,813-392-8101,Jordan Gray,Termed,P,2019-03-08,2019-04-15,2022-07-19
+CLI-0325,Quantum 233 Logistics,Alan Torres,415-482-9101,Casey Foster,Active,Q,2023-06-11,2023-06-29,N/A
+CLI-0326,Quantum 302 Media,Juan Nguyen,312-592-8101,Taylor Reed,Active,"B, G",2022-05-14,2022-06-20,N/A
+CLI-0327,Quantum 455 Capital,Philip Hill,206-382-9101,Morgan Allen,Initiation,P,2025-08-14,N/A,N/A
+CLI-0328,Quantum 543 Networks,Randy Flores,214-292-8101,Pat Davis,Active,G,2024-03-12,2024-04-19,N/A
+CLI-0329,Quantum 654 Retail,Howard Green,713-392-8101,Jordan Gray,Active,"P, Q",2021-08-24,2021-09-30,N/A
+CLI-0330,Quantum 705 Global,Fred Adams,305-482-9101,Casey Foster,Termed,B,2020-01-30,2020-03-05,2023-05-14
+CLI-0331,Quantum 820 Concepts,James Nelson,612-592-8101,Taylor Reed,Active,G,2023-01-11,2023-02-15,N/A
+CLI-0332,Quantum 990 Software,John Baker,602-382-9101,Morgan Allen,Active,"B, P",2024-06-25,2024-08-01,N/A
+CLI-0333,Sigma 115 Systems,Robert Hall,215-292-8101,Pat Davis,Active,Q,2022-07-28,2022-09-02,N/A
+CLI-0334,Sigma 233 Logistics,Michael Wright,404-392-8101,Jordan Gray,Active,G,2024-05-14,2024-06-20,N/A
+CLI-0335,Sigma 302 Media,William Scott,617-482-9101,Casey Foster,Terming,"B, Q",2024-02-28,2024-04-01,N/A
+CLI-0336,Sigma 455 Capital,David Torres,713-592-8101,Taylor Reed,Active,"B, P, G",2021-11-08,2021-12-08,N/A
+CLI-0337,Sigma 543 Networks,Richard Nguyen,206-382-9101,Morgan Allen,Active,P,2023-01-22,2023-03-01,N/A
+CLI-0338,Sigma 624 Corp.,Thomas Hill,415-292-8101,Pat Davis,Termed,Q,2020-06-18,2020-07-25,2024-01-15
+CLI-0339,Sigma 731 Solutions,Charles Flores,305-392-8101,Jordan Gray,Active,"B, G",2023-08-21,2023-09-30,N/A
+CLI-0340,Sigma 890 Partners,Christopher Green,612-482-9101,Casey Foster,Active,P,2022-03-14,2022-04-20,N/A
+CLI-0341,Sigma 914 Labs,Daniel Adams,602-592-8101,Taylor Reed,Initiation,G,2025-10-01,N/A,N/A
+CLI-0342,Vertex 115 Tech,Paul Nelson,214-382-9101,Morgan Allen,Active,"P, Q",2024-01-22,2024-03-01,N/A
+CLI-0343,Vertex 233 Logistics,Mark Baker,312-292-8101,Pat Davis,Active,B,2021-09-27,2021-11-02,N/A
+CLI-0344,Vertex 302 Media,Donald Hall,813-392-8101,Jordan Gray,Termed,G,2018-10-12,2018-11-20,2021-08-30
+CLI-0345,Vertex 455 Capital,George Wright,619-482-9101,Casey Foster,Active,"B, P",2023-04-09,2023-05-15,N/A
+CLI-0346,Vertex 543 Networks,Kenneth Scott,503-592-8101,Taylor Reed,Active,Q,2022-12-09,2023-01-20,N/A
+CLI-0347,Vertex 624 Corp.,Steven Torres,412-382-9101,Morgan Allen,Terming,G,2023-11-08,2023-12-18,N/A
+CLI-0348,Vertex 731 Solutions,Edward Nguyen,248-292-8101,Pat Davis,Active,"B, Q",2024-08-30,2024-10-05,N/A
+CLI-0349,Vertex 890 Partners,Brian Hill,704-392-8101,Jordan Gray,Active,"B, P, G",2021-05-19,2021-06-25,N/A
+CLI-0350,Vertex 914 Labs,Ronald Flores,972-482-9101,Casey Foster,Termed,P,2019-03-08,2019-04-15,2022-07-19
+CLI-0351,Zenith 115 Systems,Anthony Green,303-592-8101,Taylor Reed,Active,Q,2023-06-11,2023-06-29,N/A
+CLI-0352,Zenith 233 Logistics,Kevin Adams,904-382-9101,Morgan Allen,Active,"B, G",2022-05-14,2022-06-20,N/A
+CLI-0353,Zenith 302 Media,Albert Nelson,512-292-8101,Pat Davis,Initiation,P,2025-08-14,N/A,N/A
+CLI-0354,Zenith 455 Capital,Joe Baker,414-392-8101,Jordan Gray,Active,G,2024-03-12,2024-04-19,N/A
+CLI-0355,Zenith 543 Networks,Billy Hall,316-482-9101,Casey Foster,Active,"P, Q",2021-08-24,2021-09-30,N/A
+CLI-0356,Zenith 624 Corp.,Bryan Wright,804-592-8101,Taylor Reed,Termed,B,2020-01-30,2020-03-05,2023-05-14
+CLI-0357,Zenith 731 Solutions,Roy Scott,201-382-9101,Morgan Allen,Active,G,2023-01-11,2023-02-15,N/A
+CLI-0358,Zenith 890 Partners,Harry Torres,502-292-8101,Pat Davis,Active,"B, P",2024-06-25,2024-08-01,N/A
+CLI-0359,Zenith 914 Labs,Wayne Nguyen,239-392-8101,Jordan Gray,Active,Q,2022-07-28,2022-09-02,N/A
+CLI-0360,Nova 105 Tech,Alan Hill,616-482-9101,Casey Foster,Active,G,2024-05-14,2024-06-20,N/A
+CLI-0361,Nova 212 Tech,Juan Flores,253-592-8101,Taylor Reed,Terming,"B, Q",2024-02-28,2024-04-01,N/A
+CLI-0362,Nova 389 Labs,Philip Green,405-382-9101,Morgan Allen,Active,"B, P, G",2021-11-08,2021-12-08,N/A
+CLI-0363,Nova 415 Media,Randy Adams,919-292-8101,Pat Davis,Active,P,2023-01-22,2023-03-01,N/A
+CLI-0364,Nova 582 Ventures,Howard Nelson,817-392-8101,Jordan Gray,Termed,Q,2020-06-18,2020-07-25,2024-01-15
+CLI-0365,Nova 619 Solutions,Fred Baker,601-482-9101,Casey Foster,Active,"B, G",2023-08-21,2023-09-30,N/A
+CLI-0366,Nova 734 Group,James Hall,913-592-8101,Taylor Reed,Active,P,2022-03-14,2022-04-20,N/A
+CLI-0367,Nova 821 Systems,John Wright,302-382-9101,Morgan Allen,Initiation,G,2025-10-01,N/A,N/A
+CLI-0368,Nova 947 Inc.,Robert Scott,719-292-8101,Pat Davis,Active,"P, Q",2024-01-22,2024-03-01,N/A
+CLI-0369,Alpha 105 Tech,Michael Torres,225-392-8101,Jordan Gray,Active,B,2021-09-27,2021-11-02,N/A
+CLI-0370,Alpha 243 Systems,William Nguyen,505-392-8101,Casey Foster,Termed,G,2018-10-12,2018-11-20,2021-08-30
+CLI-0371,Alpha 382 Holdings,David Hill,702-482-9101,Taylor Reed,Active,"B, P",2023-04-09,2023-05-15,N/A
+CLI-0372,Alpha 512 Group,Richard Flores,605-592-8101,Morgan Allen,Active,Q,2022-12-09,2023-01-20,N/A
+CLI-0373,Alpha 624 Corp.,Thomas Green,207-382-9101,Pat Davis,Terming,G,2023-11-08,2023-12-18,N/A
+CLI-0374,Alpha 731 Solutions,Charles Adams,406-292-8101,Jordan Gray,Active,"B, Q",2024-08-30,2024-10-05,N/A
+CLI-0375,Alpha 890 Partners,Christopher Nelson,319-392-8101,Casey Foster,Active,"B, P, G",2021-05-19,2021-06-25,N/A
+CLI-0376,Alpha 914 Labs,Daniel Baker,860-482-9101,Taylor Reed,Termed,P,2019-03-08,2019-04-15,2022-07-19
+CLI-0377,Apex 115 Tech,Paul Hall,222-592-8101,Morgan Allen,Active,Q,2023-06-11,2023-06-29,N/A
+CLI-0378,Apex 233 Systems,Mark Wright,615-382-9101,Pat Davis,Active,"B, G",2022-05-14,2022-06-20,N/A
+CLI-0379,Apex 382 Holdings,Donald Scott,702-292-8101,Jordan Gray,Initiation,P,2025-08-14,N/A,N/A
+CLI-0380,Apex 512 Group,George Torres,813-392-8101,Casey Foster,Active,G,2024-03-12,2024-04-19,N/A
+CLI-0381,Apex 624 Corp.,Kenneth Nguyen,415-482-9101,Taylor Reed,Active,"P, Q",2021-08-24,2021-09-30,N/A
+CLI-0382,Apex 731 Solutions,Steven Hill,312-592-8101,Morgan Allen,Termed,B,2020-01-30,2020-03-05,2023-05-14
+CLI-0383,Apex 890 Partners,Edward Flores,206-382-9101,Pat Davis,Active,G,2023-01-11,2023-02-15,N/A
+CLI-0384,Apex 914 Labs,Brian Green,214-292-8101,Jordan Gray,Active,"B, P",2024-06-25,2024-08-01,N/A
+CLI-0385,Horizon 105 Tech,Ronald Adams,713-392-8101,Casey Foster,Active,Q,2022-07-28,2022-09-02,N/A
+CLI-0386,Horizon 243 Systems,Anthony Nelson,305-482-9101,Taylor Reed,Active,G,2024-05-14,2024-06-20,N/A
+CLI-0387,Horizon 382 Holdings,Kevin Baker,612-592-8101,Morgan Allen,Terming,"B, Q",2024-02-28,2024-04-01,N/A
+CLI-0388,Horizon 512 Group,Albert Hall,602-382-9101,Pat Davis,Active,"B, P, G",2021-11-08,2021-12-08,N/A
+CLI-0389,Horizon 624 Corp.,Joe Wright,215-292-8101,Jordan Gray,Active,P,2023-01-22,2023-03-01,N/A
+CLI-0390,Horizon 731 Solutions,Billy Scott,404-392-8101,Casey Foster,Termed,Q,2020-06-18,2020-07-25,2024-01-15
+CLI-0391,Horizon 890 Partners,Bryan Torres,617-482-9101,Taylor Reed,Active,"B, G",2023-08-21,2023-09-30,N/A
+CLI-0392,Horizon 914 Labs,Roy Nguyen,713-592-8101,Morgan Allen,Active,P,2022-03-14,2022-04-20,N/A
+CLI-0393,Matrix 115 Tech,Harry Hill,206-382-9101,Pat Davis,Initiation,G,2025-10-01,N/A,N/A
+CLI-0394,Matrix 243 Systems,Wayne Flores,415-292-8101,Jordan Gray,Active,"P, Q",2024-01-22,2024-03-01,N/A
+CLI-0395,Matrix 382 Holdings,Alan Green,305-392-8101,Casey Foster,Active,B,2021-09-27,2021-11-02,N/A
+CLI-0396,Matrix 512 Group,Juan Adams,612-482-9101,Taylor Reed,Termed,G,2018-10-12,2018-11-20,2021-08-30
+CLI-0397,Matrix 624 Corp.,Philip Nelson,602-592-8101,Morgan Allen,Active,"B, P",2023-04-09,2023-05-15,N/A
+CLI-0398,Matrix 731 Solutions,Randy Baker,214-382-9101,Pat Davis,Active,Q,2022-12-09,2023-01-20,N/A
+CLI-0399,Matrix 890 Partners,Howard Hall,312-293-8104,Jordan Gray,Terming,G,2023-11-08,2023-12-18,N/A
+CLI-0400,Matrix 914 Labs,Fred Wright,813-394-8102,Casey Foster,Active,"B, Q",2024-08-30,2024-10-05,N/A
+CLI-0401,Nova 115 Tech,James Scott,619-483-9102,Taylor Reed,Active,"B, P, G",2021-05-19,2021-06-25,N/A
+CLI-0402,Nova 243 Systems,John Torres,503-593-8104,Morgan Allen,Termed,P,2019-03-08,2019-04-15,2022-07-19
+CLI-0403,Nova 382 Holdings,Robert Nguyen,412-384-9102,Pat Davis,Active,Q,2023-06-11,2023-06-29,N/A
+CLI-0404,Nova 512 Group,William Hill,248-293-8104,Jordan Gray,Active,"B, G",2022-05-14,2022-06-20,N/A
+CLI-0405,Nova 624 Corp.,David Flores,704-394-8102,Casey Foster,Initiation,P,2025-08-14,N/A,N/A
+CLI-0406,Nova 731 Solutions,Richard Green,972-483-9102,Taylor Reed,Active,G,2024-03-12,2024-04-19,N/A
+CLI-0407,Nova 890 Partners,Thomas Adams,303-593-8104,Morgan Allen,Active,"P, Q",2021-08-24,2021-09-30,N/A
+CLI-0408,Nova 914 Labs,Charles Nelson,904-384-9102,Pat Davis,Termed,B,2020-01-30,2020-03-05,2023-05-14
+CLI-0409,Quantum 115 Systems,Kenneth Baker,512-293-8104,Jordan Gray,Active,G,2023-01-11,2023-02-15,N/A
+CLI-0410,Quantum 233 Logistics,Steven Hall,414-394-8102,Casey Foster,Active,"B, P",2024-06-25,2024-08-01,N/A
+CLI-0411,Quantum 302 Media,Edward Wright,316-483-9102,Taylor Reed,Active,Q,2022-07-28,2022-09-02,N/A
+CLI-0412,Quantum 455 Capital,Brian Scott,804-593-8104,Morgan Allen,Active,G,2024-05-14,2024-06-20,N/A
+CLI-0413,Quantum 543 Networks,Ronald Torres,201-384-9102,Pat Davis,Terming,"B, Q",2024-02-28,2024-04-01,N/A
