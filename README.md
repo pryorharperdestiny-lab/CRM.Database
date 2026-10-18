@@ -54,7 +54,7 @@ A primary focus of this project is avoiding "data downtime" and establishing cle
 ```
 
 1. **Initiation Stage:** Every client begins here. `Initiation_Date` is logged. `Active_Date` and `Termed_Date` must equal `N/A`.
-2. **Active Stage:** Triggered once onboarding concludes (14-45 days post-initiation). `Active_Date` locks a historical stamp. `Termed_Date` remains `N/A`.
+2. **Active Stage:** Triggered once onboarding concludes (45-60 days post-initiation). `Active_Date` locks a historical stamp. `Termed_Date` remains `N/A`.
 3. **Terming Stage:** Represents clients mid-severance. The historical `Active_Date` is preserved to calculate accurate lifetime values (LTV), while `Termed_Date` remains unpopulated until final legal termination.
 4. **Termed Stage:** Final status. `Termed_Date` applies automatically (60–730 days post-activation). Crucially, **all prior dates remain natively in the database** to allow historical velocity reporting.
 
