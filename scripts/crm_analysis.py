@@ -24,6 +24,9 @@ def load_and_analyze_crm_data(file_path):
   # 2. Calculate Customer Lifetime Value (LTV) contract duration in days
   df["LTV_Contract_Days"] = (df["Termed_Date"] - df["Active_Date"]).dt.days
 
+  # Filtered subset for accounts that successfully went live
+  active_or_termed = df[df["TTV_Days"].notnull()]
+
   # --- Summary Reports ---
   print("=== CRM ARCHITECTURE PERFORMANCE METRICS ===")
   print(f"• Total Client Accounts: {len(df)}")
