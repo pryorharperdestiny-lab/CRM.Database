@@ -26,3 +26,7 @@ jobs:
 
     - name: Run Data Generator
       run: python scripts/generate_data.py
+      
+# 5. Run the analysis script to print the summary reports
+    - name: Run CRM Analysis Script
+      run: python scripts/crm_analysis.py
