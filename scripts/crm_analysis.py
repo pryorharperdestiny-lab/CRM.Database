@@ -51,5 +51,5 @@ def load_and_analyze_crm_data(file_path):
 
 if __name__ == "__main__":
   # Run the function pointing to your mock database path
-  dataset_path = "../data/mock_crm_database.csv"
+  dataset_path = "data/mock_crm_database.csv"
   analyzed_df = load_and_analyze_crm_data(dataset_path)
