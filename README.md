@@ -8,10 +8,9 @@ The objective of this case study is to demonstrate advanced data engineering pri
 ---
 
 ## 🏗️ Core Architecture & Schema Design
-
 The foundational data asset is housed in [`data/mock_crm_database.csv`](./data/mock_crm_database.csv) and contains 413 rows engineered with zero duplicates, enforcing absolute referential integrity.
 
-### 1. Database Fields (Data Dictionary)
+### Database Fields (Data Dictionary)
 
 | Field Name | Data Type | Salesforce Field Equivalent | Business Logic & Rules Enforced |
 | :--- | :--- | :--- | :--- |
@@ -113,3 +112,62 @@ Because this architecture retains complete temporal footprints, this dataset can
 * **Pre-Implementation Drop-off:** Rate of accounts moving from `Initiation` directly to `Cancelled`, measuring sales-to-onboarding success.
 * **Customer Lifetime Value (LTV):** `Termed_Date` minus `Active_Date` to pinpoint historical contract duration by `Client_Type` segment.
 * **Churn Velocity:** Cross-referencing `Referring_Agent` performance against account termination distributions to track agent lead quality.
+
+---
+
+## 💻 Technical Implementation & Querying
+To demonstrate practical proficiency in both native Salesforce tooling and data science workflows, below are sample queries and scripts utilized to interact with and extract insights from this data schema.
+
+
+* **Salesforce Object Query Language (SOQL)**
+* **Description:** These custom SOQL queries cam be executed in Salesforce Developer Console to audit account pipelines and operational statuses.
+
+* Query Active Accounts with Product Entitlements:
+  ```SQL
+  SELECT Id, Name, Account_Status__c, Product_Entitlements__mru__c, Onboarding_Start_Date__c, Go_Live_Date__c
+  FROM Account
+  WHERE Account_Status__c = 'Active'
+  ORDER BY Onboarding_Start_Date__c DESC
+
+* Query Pre-Go-Live Cancellations (Pipeline Drop-off Analysis):
+  ```SQL
+  SELECT ID, Name, Referring_Agent__c, Onboarding_Start_Date__c, Contract_End_Date__c
+  FROM Account
+  WHERE Account_Status__c = 'Cancelled'
+
+
+* **Python Data Pprocessing & Metric Calculation** (`pandas`)
+* **Description:** This snippet illustrates how the synthetic dataset (mock_crm_database.csv) is parsed in Python to calculate operational KPIs like Time-to-Value (TTV) and Customer Lifetime Value (LTV) while handling N/A strings cleanly.
+  ```Python
+  import numpy as np
+  import pandas as pd
+
+  # Load dataset
+  df = pd.read_csv("data/mock_crm_database.csv")
+
+  # Convert date columns, coercing 'N/A' strings to NaT (Not a Time)
+  date_cols = ["Initiation_Date", "Active_Date", "Termed_Date"]
+  for col in date_cols:
+    df[col] = pd.to_datetime(df[col], errors="coerce")
+
+  # 1. Calculate Time-to-Value (TTV) in days for Active/Termed accounts
+  # (Active_Date minus Initiation_Date, targeting the 45-60 day onboarding window)
+  df["TTV_Days"] = (df["Active_Date"] - df["Initiation_Date"]).dt.days
+
+  # 2. Calculate Customer Lifetime Value (LTV) duration in days for Termed accounts
+  df["LTV_Contract_Days"] = (df["Termed_Date"] - df["Active_Date"]).dt.days
+
+  # Summary statistics for portfolio review
+  print("--- CRM Architecture Performance Metrics ---")
+  print(f"Total Client Accounts: {len(df)}")
+  print(f"Average Onboarding Time (TTV): {df{'TTV_Days'].mean():.1f} days")
+  print(
+      "Pre-Go-Live Cancellations:"
+      f" {len(df[df['Account_Status'] == 'Cancelled'])} accounts"
+  )
+  print(
+      "Average Active Contract Duration (LTV):"
+      f" {df['LTV_Contract_Days'].mean():.1f} days"
+  )
+
+  
