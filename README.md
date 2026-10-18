@@ -41,29 +41,32 @@ To handle real-world business models where a single corporate client subscribes 
 ---
 
 ## 📆 Strict Lifecycle Temporal Logic
-A primary focus of this project is avoiding "data downtime" and establishing clean historical baselines. The chronological pipeline forces fields to populate or lock based on status transitions:
-
+A primary focus of this project is avoiding "data downtime" and establishing clean historical baselines. The chronological pipeline forces fields to populate or lock based on status transitions, accounting for pre-implementation cancellations as well as standard account lifecycles:
 ```text
-  [ Initiation_Date ]
-         │
-         ▼
-  [ Active_Date ]  ──────►  ( Terming Status )
-         │
-         ▼
-  [ Termed_Date ] (Continuous Historical Tracking Retained)
+[ Initiation_Date ]
+                              │
+             ┌────────────────┴────────────────┐
+             ▼                                 ▼
+      [ Active_Date ]                  [ Cancelled Status ]
+  (Go-Live: 45-60 Days)           (Cancelled Before Go-Live;
+             │                       Termed_Date Logged, Active_Date = N/A)
+             ├────────────────┐
+             ▼                ▼
+   ( Terming Status )   [ Termed_Date ]
+                         (Continuous Historical Tracking Retained)
 ```
 
-1. **Initiation Stage:** Every client begins here. `Initiation_Date` is logged. `Active_Date` and `Termed_Date` must equal `N/A`.
-2. **Active Stage:** Triggered once onboarding concludes (45-60 days post-initiation). `Active_Date` locks a historical stamp. `Termed_Date` remains `N/A`.
-3. **Terming Stage:** Represents clients mid-severance. The historical `Active_Date` is preserved to calculate accurate lifetime values (LTV), while `Termed_Date` remains unpopulated until final legal termination.
-4. **Termed Stage:** Final status. `Termed_Date` applies automatically (60–730 days post-activation). Crucially, **all prior dates remain natively in the database** to allow historical velocity reporting.
-
+1. Initiation Stage: Every client begins here. Initiation_Date is logged. Active_Date and Termed_Date must equal N/A. Onboarding spans 45–60 days.
+2. Cancelled (Pre-Go Live): If a client decides to cancel prior to reaching their Go-Live date, the status updates directly from Initiation to Cancelled. Active_Date remains N/A, while Termed_Date captures the cancellation date (logged within 1–60 days post-initiation) for pre-implementation churn reporting.
+3. Active Stage: Triggered once onboarding concludes (45–60 days post-initiation). Active_Date locks a historical Go-Live stamp. Termed_Date remains N/A.
+4. Terming Stage: Represents active clients mid-severance. The historical Active_Date is preserved to calculate accurate lifetime values (LTV), while Termed_Date remains unpopulated until final legal termination.
+5. Termed Stage: Final post-active status. Termed_Date applies automatically (60–730 days post-activation). Crucially, all prior dates remain natively in the database to allow historical velocity reporting.
 ---
 
 ## 🛡️ Recommended CRM Validation Governance (Salesforce Implementation)
 To prevent dirty data from compromising this structure in production, the following standard Salesforce validation logic formulas should be implemented:
 
-### Rule 1: Enforce Active Date Presence
+### Rule 1: Enforce Active Date Presence for Active Accounts
 * **Description:** Prevents an account from moving past initiation without an onboarding Go-Live date.
 * **Formula:**
   ```excel
@@ -89,14 +92,24 @@ To prevent dirty data from compromising this structure in production, the follow
   ```excel
   AND(
       NOT(ISPICKVAL(Account_Status__c, "Termed")),
+      NOT(ISPICKVAL(Account_Status__c, "Cancelled")),
       NOT(ISBLANK(Termed_Date__c))
   )
   ```
-
+### Rule 4: Prevent Active Date on Pre-Go-Live Cancellations
+* **Description:** Ensures that accounts cancelled prior to launch do not hold a false Active_Date.
+* **Formula:**
+  ```excel
+  AND(
+      ISPICKVAL(Account_Status__c, "Cancelled"),
+      NOT(ISBLANK(Active_Date__c))
+  )
+  
 ---
 
 ## 📈 Downstream Analytics Opportunities
 Because this architecture retains complete temporal footprints, this dataset can be plugged directly into **Tableau, Power BI, or CRM Analytics** to calculate core business health metrics:
-* **Time-to-Value (TTV):** `Active_Date` minus `Initiation_Date` (Measuring internal onboarding speed).
+* **Time-to-Value (TTV):** `Active_Date` minus `Initiation_Date` (Measuring internal onboarding speed across the realistic 45–60 day target).
+* **Pre-Implementation Drop-off:** Rate of accounts moving from `Initiation` directly to `Cancelled`, measuring sales-to-onboarding success.
 * **Customer Lifetime Value (LTV):** `Termed_Date` minus `Active_Date` to pinpoint historical contract duration by `Client_Type` segment.
 * **Churn Velocity:** Cross-referencing `Referring_Agent` performance against account termination distributions to track agent lead quality.
