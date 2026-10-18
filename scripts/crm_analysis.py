@@ -33,7 +33,7 @@ def load_and_analyze_crm_data(file_path):
   )
 
   cancelled_df = df[df["Account_Status"] == "Cancelled"]
-  cancellation_rate = (len(cancelled_df / len(df)) * 100
+  cancellation_rate = (len(cancelled_df) / len(df)) * 100
   print(
       f"• Pre-Go-Live Cancellations: {len(cancelled_df)} accounts"
       f" ({cancellation_rate:.1f}% drop-off rate)"
