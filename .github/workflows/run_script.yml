@@ -28,4 +28,4 @@ jobs:
 
     # 4. Execute your Python script
     - name: Run Query Script
-      run: python crm_analysis.py
+      run: python CRM.Database/scripts/crm_analysis.py
