@@ -1,7 +1,23 @@
+import glob # for file patterm matching
 import os
-import numpy as np
+import numpy as np # random numbers, arrays, mock data distributions
 import pandas as pd
 
+# Ensuring the data directory exists
+os.makedirs("data", exist_ok=True)
+existing_files = glob.glob("data/v*mock_crm_database.csv")
+versions = [] # collects all version numbers into a list assists with max(versions) finding to add 1
+
+for file in existing_files: # loops through files to read the names
+  base_name = os.path.basename(file) # focuses on file name
+  try: # tells the system to attempt the below task with files that have the version naming in place
+    v_num = int(base_name.split("mock")[0].replace("v", "")) # Splits the text string in base name where mock appears to v# mock Further splits v and its number to focus on integer  
+    versions.append(v_num) # since the number is seperated, can now add it to the versions list
+  except ValueError: # ignore files that have incorrect naming
+    continue # continue to count files with correct naming
+      
+next_version = max(versions) + 1 if versions else 1
+filename = f"data/v{next_version}mock_crm_database.csv"
 
 def generate_mock_crm_data(
     num_records=413, output_path="data/mock_crm_database.csv"
@@ -157,4 +173,4 @@ def generate_mock_crm_data(
 
 
 if __name__ == "__main__":
-  generate_mock_crm_data()
+  generate_mock_crm_data(output_path=filename) # new version filename
