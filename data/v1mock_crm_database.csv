@@ -1,0 +1,414 @@
+Client_ID,Company_Name,Company_Liaison,Liaison_Phone,Referring_Agent,Account_Status,Client_Type,Initiation_Date,Active_Date,Termed_Date
+CLI-0001,Nexus Holdings 922,Emily Miller,911-122-1814,Jordan Lee,Termed,G,2023-08-06,2023-10-02,2025-08-07
+CLI-0002,Sterling Consulting 485,Rachel Johnson,822-715-1827,Taylor Swift,Termed,G,2023-11-20,2024-01-23,2024-07-27
+CLI-0003,Sterling Partners 575,Ashley Smith,803-898-7024,Samira Khan,Initiation,"P, G",2023-10-23,N/A,N/A
+CLI-0004,Quantum Logistics 790,John Miller,978-506-2792,Samira Khan,Active,P,2024-09-13,2024-11-13,N/A
+CLI-0005,Meridian Solutions 237,Emily Davis,200-930-5021,Devon Brooks,Active,"B, P, Q",2024-10-22,2024-12-20,N/A
+CLI-0006,Global Solutions 976,John Jones,336-301-4507,Alex Mercer,Initiation,B,2024-07-28,N/A,N/A
+CLI-0007,Summit Logistics 232,Jessica Rodriguez,801-174-8973,Jordan Lee,Active,Q,2024-02-22,2024-04-17,N/A
+CLI-0008,Apex Holdings 784,Sarah Martinez,962-278-2205,Alex Mercer,Active,"P, G",2024-05-15,2024-06-26,N/A
+CLI-0009,Dynamic Industries 294,Sarah Smith,484-162-5757,Jordan Lee,Initiation,"B, P",2023-02-18,N/A,N/A
+CLI-0010,Omni Systems 653,Robert Smith,283-460-1688,Morgan Vance,Active,G,2023-03-04,2023-04-22,N/A
+CLI-0011,Nexus Logistics 577,Sarah Davis,968-835-3482,Taylor Swift,Termed,"P, G",2023-02-01,2023-04-15,2024-03-24
+CLI-0012,Summit Enterprise 290,Sarah Taylor,676-385-8311,Taylor Swift,Initiation,"P, G",2024-01-06,N/A,N/A
+CLI-0013,Sterling Systems 140,Michael Johnson,701-212-6797,Taylor Swift,Active,B,2023-09-21,2023-12-02,N/A
+CLI-0014,Quantum Systems 928,Robert Davis,842-899-5873,Jordan Lee,Termed,P,2024-01-15,2024-02-29,2024-07-24
+CLI-0015,Omni Industries 100,Robert Anderson,377-490-1832,Alex Mercer,Active,"B, G",2024-03-18,2024-04-29,N/A
+CLI-0016,Summit Logistics 184,Emily Rodriguez,438-328-7722,Taylor Swift,Terming,"B, P, Q",2023-09-21,2023-11-21,2024-04-24
+CLI-0017,Pioneer Systems 557,Amanda Thomas,487-219-3538,Morgan Vance,Termed,"P, G",2024-04-13,2024-06-07,2024-08-12
+CLI-0018,Quantum Enterprise 256,Ashley Davis,872-250-5242,Casey Sterling,Termed,"B, P",2024-11-30,2025-01-08,2026-08-04
+CLI-0019,Omni Technologies 946,Sarah Jones,722-845-2409,Taylor Swift,Cancelled,G,2024-06-15,N/A,2024-06-20
+CLI-0020,Quantum Holdings 653,James Miller,455-833-8083,Taylor Swift,Termed,"P, G",2023-12-30,2024-03-06,2025-12-18
+CLI-0021,Atlas Consulting 982,Ashley Thomas,831-158-9173,Devon Brooks,Termed,B,2023-04-25,2023-06-09,2025-01-14
+CLI-0022,Veridian Group 734,John Garcia,436-380-8368,Samira Khan,Cancelled,"P, G",2023-01-04,N/A,2023-01-30
+CLI-0023,Summit Technologies 160,Ashley Taylor,308-709-9996,Taylor Swift,Termed,"B, G",2023-02-11,2023-04-15,2023-07-24
+CLI-0024,Meridian Group 521,Emily Johnson,216-776-8141,Jordan Lee,Terming,"B, P",2023-12-08,2024-01-26,2024-04-21
+CLI-0025,Meridian Solutions 124,John Miller,930-267-9801,Morgan Vance,Cancelled,"B, P",2024-03-30,N/A,2024-04-09
+CLI-0026,Meridian Enterprise 660,Kevin Smith,675-801-3681,Samira Khan,Initiation,G,2023-12-29,N/A,N/A
+CLI-0027,Omni Industries 295,Sarah Williams,892-391-6490,Jordan Lee,Initiation,Q,2023-10-23,N/A,N/A
+CLI-0028,Apex Group 417,Brian Brown,312-286-2333,Jordan Lee,Active,"B, G",2024-02-10,2024-03-30,N/A
+CLI-0029,Quantum Consulting 928,Amanda Smith,961-647-9942,Morgan Vance,Active,G,2024-05-05,2024-07-02,N/A
+CLI-0030,Zenith Logistics 661,Rachel Martinez,564-581-1153,Jordan Lee,Active,B,2023-10-23,2023-12-07,N/A
+CLI-0031,Apex Logistics 161,Sarah Rodriguez,260-715-7185,Alex Mercer,Active,Q,2024-05-12,2024-06-20,N/A
+CLI-0032,Pioneer Solutions 709,Megan Anderson,634-577-5197,Jordan Lee,Active,"B, P",2023-02-13,2023-04-09,N/A
+CLI-0033,Apex Solutions 763,Brian Smith,216-429-4640,Devon Brooks,Active,G,2023-11-14,2024-01-13,N/A
+CLI-0034,Quantum Solutions 946,Amanda Williams,975-760-2750,Casey Sterling,Terming,"P, G",2023-07-19,2023-09-03,2025-02-09
+CLI-0035,Summit Industries 430,John Anderson,854-670-4993,Alex Mercer,Termed,"B, P, Q",2023-10-15,2023-11-28,2024-02-11
+CLI-0036,Apex Solutions 290,Robert Smith,993-185-1390,Samira Khan,Active,"B, P, Q",2023-05-17,2023-07-16,N/A
+CLI-0037,Zenith Systems 710,Amanda Johnson,926-576-7737,Devon Brooks,Termed,"B, P, Q",2024-02-06,2024-04-01,2025-10-02
+CLI-0038,Nexus Consulting 795,Robert Smith,725-258-4223,Taylor Swift,Cancelled,"B, P",2023-04-08,N/A,2023-04-11
+CLI-0039,Veridian Systems 857,James Martinez,382-463-9230,Devon Brooks,Termed,G,2023-12-15,2024-02-03,2025-05-04
+CLI-0040,Nexus Technologies 195,Michael Smith,215-592-9502,Taylor Swift,Termed,"P, G",2023-09-08,2023-11-13,2024-05-31
+CLI-0041,Dynamic Holdings 570,Michael Williams,238-913-3032,Casey Sterling,Initiation,G,2024-11-27,N/A,N/A
+CLI-0042,Meridian Logistics 956,Amanda Anderson,438-476-5361,Samira Khan,Active,"B, P, Q",2023-12-06,2024-02-06,N/A
+CLI-0043,Pioneer Systems 216,Sarah Thomas,888-102-2165,Samira Khan,Termed,P,2023-10-20,2023-12-25,2025-04-29
+CLI-0044,Quantum Systems 138,Sarah Jones,784-498-9056,Morgan Vance,Active,P,2023-03-02,2023-04-17,N/A
+CLI-0045,Summit Consulting 595,Brian Anderson,909-906-8486,Samira Khan,Cancelled,"P, G",2023-08-14,N/A,2023-09-08
+CLI-0046,Summit Holdings 612,Robert Brown,971-670-8827,Casey Sterling,Cancelled,"B, P",2023-08-31,N/A,2023-09-13
+CLI-0047,Veridian Partners 669,Rachel Wilson,306-325-1824,Jordan Lee,Initiation,P,2023-09-16,N/A,N/A
+CLI-0048,Quantum Partners 266,Amanda Miller,716-872-9245,Devon Brooks,Active,B,2023-04-09,2023-05-27,N/A
+CLI-0049,Zenith Systems 127,Ashley Smith,772-990-8657,Taylor Swift,Termed,"P, G",2023-05-25,2023-07-31,2023-10-01
+CLI-0050,Veridian Holdings 502,David Miller,980-219-1892,Devon Brooks,Initiation,G,2023-12-23,N/A,N/A
+CLI-0051,Omni Logistics 330,Michael Martinez,816-422-2218,Alex Mercer,Termed,P,2024-06-04,2024-07-16,2026-03-04
+CLI-0052,Omni Group 860,James Martinez,425-223-1974,Samira Khan,Active,"B, P",2023-06-25,2023-08-31,N/A
+CLI-0053,Summit Technologies 507,Michael Miller,236-415-4020,Morgan Vance,Initiation,B,2023-04-24,N/A,N/A
+CLI-0054,Summit Logistics 516,Amanda Taylor,423-417-3396,Taylor Swift,Termed,"B, G",2023-02-09,2023-04-11,2023-07-19
+CLI-0055,Summit Solutions 251,Brian Taylor,948-388-5311,Taylor Swift,Termed,G,2023-12-19,2024-02-27,2025-11-18
+CLI-0056,Meridian Consulting 360,John Taylor,562-656-5286,Taylor Swift,Termed,"B, P, Q",2023-05-13,2023-07-22,2025-03-29
+CLI-0057,Zenith Systems 759,Ashley Rodriguez,230-634-8561,Taylor Swift,Active,"B, P, Q",2023-03-23,2023-05-25,N/A
+CLI-0058,Global Technologies 109,Michael Thomas,788-623-1294,Jordan Lee,Active,"P, G",2024-10-28,2024-12-12,N/A
+CLI-0059,Dynamic Consulting 468,John Smith,559-322-8009,Morgan Vance,Initiation,"B, P",2024-11-05,N/A,N/A
+CLI-0060,Apex Consulting 424,Emily Williams,613-554-6352,Jordan Lee,Active,G,2023-12-01,2024-01-28,N/A
+CLI-0061,Dynamic Systems 415,James Taylor,477-295-8059,Morgan Vance,Initiation,Q,2023-07-11,N/A,N/A
+CLI-0062,Global Logistics 122,Sarah Anderson,600-985-3752,Samira Khan,Cancelled,Q,2023-07-29,N/A,2023-08-16
+CLI-0063,Omni Group 617,Rachel Taylor,915-775-9954,Taylor Swift,Cancelled,G,2023-01-07,N/A,2023-02-05
+CLI-0064,Apex Group 665,Brian Smith,845-978-4356,Morgan Vance,Active,"B, P",2024-05-03,2024-06-20,N/A
+CLI-0065,Summit Technologies 152,Robert Taylor,356-174-8027,Jordan Lee,Termed,G,2023-01-22,2023-03-18,2024-11-05
+CLI-0066,Meridian Group 179,David Smith,581-847-1988,Casey Sterling,Termed,"B, P",2023-03-25,2023-05-07,2025-04-24
+CLI-0067,Omni Consulting 291,John Jones,586-606-8424,Jordan Lee,Termed,"B, P, Q",2023-06-11,2023-08-07,2024-03-16
+CLI-0068,Pioneer Industries 749,Sarah Rodriguez,991-623-6390,Morgan Vance,Active,"B, G",2023-03-01,2023-04-25,N/A
+CLI-0069,Nexus Partners 933,John Smith,804-408-9711,Devon Brooks,Active,P,2023-07-18,2023-09-03,N/A
+CLI-0070,Sterling Holdings 705,Kevin Anderson,892-635-5473,Taylor Swift,Active,"B, P, Q",2023-06-02,2023-08-14,N/A
+CLI-0071,Apex Consulting 739,Rachel Davis,472-993-2875,Morgan Vance,Cancelled,"B, G",2024-05-15,N/A,2024-06-05
+CLI-0072,Pioneer Systems 602,Michael Garcia,783-494-4788,Alex Mercer,Initiation,P,2023-11-16,N/A,N/A
+CLI-0073,Summit Enterprise 990,Michael Thomas,694-706-9357,Taylor Swift,Terming,B,2023-04-12,2023-06-19,2024-09-12
+CLI-0074,Omni Holdings 758,Brian Miller,890-187-7731,Alex Mercer,Cancelled,"B, P, Q",2024-08-14,N/A,2024-09-05
+CLI-0075,Dynamic Logistics 429,Emily Anderson,859-772-9905,Jordan Lee,Active,P,2023-08-13,2023-09-27,N/A
+CLI-0076,Dynamic Consulting 394,John Taylor,788-215-8833,Samira Khan,Active,"P, G",2023-03-31,2023-06-10,N/A
+CLI-0077,Quantum Industries 485,Ashley Johnson,342-205-9619,Alex Mercer,Termed,"B, P",2024-09-26,2024-11-05,2025-01-12
+CLI-0078,Dynamic Technologies 695,Emily Rodriguez,558-322-1552,Jordan Lee,Termed,"B, G",2024-11-20,2025-01-15,2026-01-27
+CLI-0079,Summit Solutions 646,Jessica Thomas,310-350-3430,Devon Brooks,Terming,"B, G",2024-01-25,2024-03-19,2024-06-08
+CLI-0080,Global Holdings 755,Ashley Williams,326-908-8867,Jordan Lee,Active,P,2023-01-12,2023-03-04,N/A
+CLI-0081,Quantum Technologies 112,Megan Taylor,736-400-2266,Jordan Lee,Active,"P, G",2023-12-22,2024-02-17,N/A
+CLI-0082,Sterling Enterprise 400,Amanda Taylor,830-408-5790,Taylor Swift,Active,"P, G",2024-10-23,2024-12-26,N/A
+CLI-0083,Vanguard Holdings 210,Amanda Rodriguez,258-742-9946,Taylor Swift,Active,"P, G",2023-07-26,2023-09-24,N/A
+CLI-0084,Global Industries 935,Robert Anderson,924-258-1956,Morgan Vance,Cancelled,G,2023-12-30,N/A,2024-01-29
+CLI-0085,Omni Group 369,Jessica Anderson,351-661-2712,Taylor Swift,Cancelled,G,2023-09-07,N/A,2023-09-28
+CLI-0086,Sterling Solutions 960,Michael Brown,777-434-2394,Jordan Lee,Termed,G,2024-10-04,2024-11-30,2026-07-12
+CLI-0087,Omni Solutions 671,Amanda Jones,936-966-4591,Morgan Vance,Termed,"B, P, Q",2023-10-25,2023-12-17,2025-07-24
+CLI-0088,Quantum Technologies 352,Rachel Johnson,574-392-5648,Samira Khan,Initiation,"B, P",2024-09-14,N/A,N/A
+CLI-0089,Pioneer Logistics 371,Rachel Garcia,430-183-9321,Devon Brooks,Active,Q,2023-01-28,2023-03-15,N/A
+CLI-0090,Apex Group 428,David Jones,460-548-6543,Morgan Vance,Active,"B, P",2023-10-30,2023-12-21,N/A
+CLI-0091,Summit Technologies 134,Ashley Williams,829-369-6724,Jordan Lee,Terming,B,2023-09-14,2023-11-02,2024-10-02
+CLI-0092,Vanguard Technologies 949,Amanda Martinez,712-412-1575,Samira Khan,Active,B,2023-04-17,2023-06-18,N/A
+CLI-0093,Zenith Partners 413,James Anderson,364-404-4568,Morgan Vance,Active,"B, P, Q",2024-09-11,2024-11-05,N/A
+CLI-0094,Apex Logistics 587,Michael Rodriguez,710-392-1281,Casey Sterling,Cancelled,Q,2023-07-17,N/A,2023-07-22
+CLI-0095,Meridian Holdings 759,James Martinez,360-790-2229,Morgan Vance,Active,"B, P",2023-08-30,2023-10-21,N/A
+CLI-0096,Pioneer Logistics 918,Rachel Johnson,416-405-6342,Devon Brooks,Active,"B, P, Q",2024-03-03,2024-04-22,N/A
+CLI-0097,Nexus Systems 968,Jessica Davis,583-737-2969,Jordan Lee,Terming,"B, G",2023-12-07,2024-01-21,2026-01-18
+CLI-0098,Meridian Consulting 519,Emily Jones,694-185-2198,Jordan Lee,Terming,"B, P, Q",2023-08-06,2023-09-30,2025-01-15
+CLI-0099,Global Group 363,Michael Johnson,344-637-4719,Devon Brooks,Cancelled,G,2023-12-11,N/A,2023-12-25
+CLI-0100,Quantum Technologies 905,Jessica Smith,200-246-4124,Casey Sterling,Cancelled,"P, G",2023-08-08,N/A,2023-08-10
+CLI-0101,Summit Solutions 324,Michael Miller,774-684-8848,Alex Mercer,Termed,B,2024-08-11,2024-09-23,2025-10-11
+CLI-0102,Vanguard Industries 514,Michael Taylor,301-593-2667,Samira Khan,Active,P,2024-08-16,2024-10-25,N/A
+CLI-0103,Omni Industries 373,John Davis,564-430-4712,Samira Khan,Active,B,2024-10-16,2024-12-13,N/A
+CLI-0104,Atlas Holdings 838,Megan Wilson,910-242-3875,Casey Sterling,Active,B,2024-05-11,2024-06-20,N/A
+CLI-0105,Sterling Technologies 850,Megan Miller,466-966-8117,Jordan Lee,Termed,B,2023-01-03,2023-02-21,2024-03-14
+CLI-0106,Summit Enterprise 897,Michael Miller,828-320-2177,Alex Mercer,Active,P,2023-10-31,2023-12-09,N/A
+CLI-0107,Omni Technologies 995,Megan Brown,982-142-6445,Samira Khan,Terming,Q,2024-03-02,2024-05-11,2024-07-30
+CLI-0108,Summit Systems 707,Robert Martinez,535-914-6243,Devon Brooks,Active,Q,2023-02-20,2023-04-20,N/A
+CLI-0109,Pioneer Consulting 558,Jessica Jones,340-569-5882,Jordan Lee,Active,G,2024-01-08,2024-02-25,N/A
+CLI-0110,Quantum Group 260,Rachel Martinez,868-850-8311,Jordan Lee,Cancelled,P,2023-01-02,N/A,2023-01-19
+CLI-0111,Sterling Consulting 222,Kevin Brown,289-444-5445,Taylor Swift,Active,G,2024-08-08,2024-10-13,N/A
+CLI-0112,Summit Enterprise 136,Kevin Davis,511-340-9105,Casey Sterling,Active,G,2023-03-25,2023-05-05,N/A
+CLI-0113,Zenith Group 136,Emily Davis,584-271-6495,Casey Sterling,Cancelled,Q,2023-05-21,N/A,2023-06-13
+CLI-0114,Apex Consulting 571,Emily Miller,476-825-4097,Alex Mercer,Cancelled,"B, G",2024-01-13,N/A,2024-02-07
+CLI-0115,Meridian Solutions 545,Kevin Wilson,783-251-5815,Alex Mercer,Active,"B, P",2024-08-02,2024-09-07,N/A
+CLI-0116,Global Partners 980,Amanda Williams,811-159-4273,Alex Mercer,Initiation,G,2024-03-14,N/A,N/A
+CLI-0117,Dynamic Solutions 101,Michael Jones,886-660-1482,Morgan Vance,Termed,"B, P, Q",2024-10-22,2024-12-19,2026-12-10
+CLI-0118,Nexus Logistics 239,James Williams,654-259-9841,Alex Mercer,Active,"B, P",2024-03-16,2024-04-28,N/A
+CLI-0119,Pioneer Consulting 316,Michael Williams,462-696-7780,Devon Brooks,Terming,Q,2023-10-07,2023-12-02,2024-11-27
+CLI-0120,Nexus Enterprise 175,David Brown,417-201-7764,Samira Khan,Active,"B, P",2023-12-19,2024-02-18,N/A
+CLI-0121,Apex Solutions 168,David Rodriguez,847-452-6189,Alex Mercer,Cancelled,"B, P",2024-07-14,N/A,2024-08-11
+CLI-0122,Nexus Solutions 420,Michael Anderson,716-527-4610,Casey Sterling,Active,"B, G",2024-07-15,2024-08-24,N/A
+CLI-0123,Pioneer Industries 221,Emily Anderson,580-157-8426,Samira Khan,Terming,"B, P, Q",2023-06-21,2023-08-19,2025-06-22
+CLI-0124,Omni Industries 584,Sarah Williams,553-570-5211,Samira Khan,Cancelled,G,2024-03-28,N/A,2024-04-10
+CLI-0125,Dynamic Logistics 125,Kevin Rodriguez,510-307-3665,Samira Khan,Active,"B, P, Q",2023-01-12,2023-03-11,N/A
+CLI-0126,Quantum Enterprise 173,Megan Garcia,714-755-1236,Devon Brooks,Active,"B, G",2024-09-21,2024-11-09,N/A
+CLI-0127,Quantum Holdings 569,Jessica Garcia,447-463-3368,Alex Mercer,Terming,G,2024-02-10,2024-03-17,2025-08-14
+CLI-0128,Summit Holdings 631,Robert Smith,983-559-3785,Casey Sterling,Initiation,B,2024-10-24,N/A,N/A
+CLI-0129,Meridian Group 260,Michael Taylor,777-460-1340,Jordan Lee,Termed,B,2024-03-24,2024-05-18,2025-01-12
+CLI-0130,Pioneer Logistics 484,Rachel Davis,865-295-5406,Samira Khan,Termed,Q,2023-05-23,2023-07-25,2024-08-03
+CLI-0131,Veridian Partners 935,James Brown,689-111-1560,Jordan Lee,Active,"B, P",2023-06-07,2023-07-29,N/A
+CLI-0132,Pioneer Enterprise 500,Ashley Thomas,661-233-4138,Devon Brooks,Active,B,2024-02-03,2024-03-23,N/A
+CLI-0133,Sterling Solutions 588,David Johnson,329-565-8373,Morgan Vance,Cancelled,P,2024-06-20,N/A,2024-06-22
+CLI-0134,Atlas Logistics 101,John Taylor,488-263-9286,Samira Khan,Active,"B, G",2023-08-26,2023-11-04,N/A
+CLI-0135,Pioneer Enterprise 549,Jessica Williams,682-124-6772,Casey Sterling,Active,"B, P",2024-06-20,2024-07-31,N/A
+CLI-0136,Quantum Logistics 508,Kevin Anderson,211-899-9734,Samira Khan,Termed,"B, P",2024-03-22,2024-05-24,2024-09-03
+CLI-0137,Pioneer Solutions 603,Rachel Johnson,259-762-7610,Devon Brooks,Initiation,Q,2023-12-11,N/A,N/A
+CLI-0138,Apex Consulting 180,Michael Thomas,978-789-6175,Devon Brooks,Termed,Q,2023-04-09,2023-05-28,2024-06-19
+CLI-0139,Pioneer Holdings 799,Megan Thomas,693-982-7406,Morgan Vance,Cancelled,G,2024-09-06,N/A,2024-09-14
+CLI-0140,Omni Industries 289,Sarah Jones,558-479-4292,Morgan Vance,Terming,"P, G",2023-08-19,2023-10-04,2025-08-21
+CLI-0141,Sterling Technologies 605,Rachel Taylor,682-618-2549,Devon Brooks,Terming,"P, G",2024-10-06,2024-12-03,2025-08-02
+CLI-0142,Global Group 937,Michael Thomas,930-504-3293,Samira Khan,Active,P,2024-04-15,2024-06-21,N/A
+CLI-0143,Meridian Solutions 833,Amanda Davis,264-112-7356,Jordan Lee,Active,"B, P",2024-11-23,2025-01-08,N/A
+CLI-0144,Pioneer Consulting 221,James Taylor,871-263-9656,Taylor Swift,Active,Q,2023-11-04,2024-01-18,N/A
+CLI-0145,Atlas Systems 673,Robert Jones,993-609-6827,Jordan Lee,Active,G,2024-08-16,2024-10-07,N/A
+CLI-0146,Dynamic Partners 671,David Rodriguez,932-535-4493,Jordan Lee,Termed,"B, P",2024-09-16,2024-11-08,2025-07-17
+CLI-0147,Vanguard Partners 954,Sarah Garcia,592-524-7272,Jordan Lee,Active,"B, P",2023-04-07,2023-05-31,N/A
+CLI-0148,Pioneer Industries 664,Michael Wilson,431-888-8451,Taylor Swift,Active,"B, G",2023-07-19,2023-09-17,N/A
+CLI-0149,Global Group 809,Sarah Anderson,372-566-8083,Alex Mercer,Active,"B, G",2023-07-19,2023-08-31,N/A
+CLI-0150,Omni Industries 895,Robert Martinez,584-720-9599,Taylor Swift,Initiation,"B, P",2023-05-28,N/A,N/A
+CLI-0151,Atlas Partners 563,James Garcia,565-327-5531,Devon Brooks,Termed,Q,2024-06-23,2024-08-09,2026-02-10
+CLI-0152,Sterling Partners 555,Ashley Jones,972-449-6439,Jordan Lee,Initiation,"B, G",2024-01-03,N/A,N/A
+CLI-0153,Quantum Holdings 824,Megan Smith,422-747-4839,Alex Mercer,Termed,"B, P, Q",2024-07-14,2024-08-21,2025-11-05
+CLI-0154,Meridian Solutions 115,Jessica Thomas,816-268-9569,Devon Brooks,Initiation,P,2023-05-29,N/A,N/A
+CLI-0155,Global Partners 610,Jessica Anderson,687-869-1780,Casey Sterling,Termed,"B, G",2023-10-15,2023-11-23,2025-06-27
+CLI-0156,Veridian Logistics 352,Ashley Smith,601-282-6784,Taylor Swift,Cancelled,P,2024-09-17,N/A,2024-10-09
+CLI-0157,Pioneer Logistics 794,Jessica Thomas,924-271-1685,Alex Mercer,Cancelled,Q,2023-05-02,N/A,2023-06-01
+CLI-0158,Quantum Systems 145,Robert Davis,696-879-2256,Devon Brooks,Active,"B, P",2024-10-22,2024-12-19,N/A
+CLI-0159,Nexus Logistics 610,Amanda Thomas,559-337-1646,Devon Brooks,Terming,Q,2023-09-13,2023-11-02,2025-10-23
+CLI-0160,Omni Consulting 824,Brian Rodriguez,733-959-4537,Jordan Lee,Active,"B, P, Q",2024-03-11,2024-05-05,N/A
+CLI-0161,Quantum Holdings 674,Michael Williams,606-187-9652,Samira Khan,Active,"B, P",2023-12-19,2024-02-22,N/A
+CLI-0162,Apex Enterprise 223,David Miller,218-122-3460,Samira Khan,Termed,"B, P, Q",2023-10-08,2023-12-09,2024-05-27
+CLI-0163,Meridian Industries 803,Amanda Wilson,385-755-7272,Morgan Vance,Terming,B,2023-04-14,2023-05-28,2024-03-06
+CLI-0164,Sterling Enterprise 138,Ashley Johnson,690-572-4081,Casey Sterling,Terming,"B, P, Q",2023-03-07,2023-04-22,2023-10-10
+CLI-0165,Zenith Technologies 805,Kevin Rodriguez,699-697-3649,Jordan Lee,Initiation,B,2023-01-14,N/A,N/A
+CLI-0166,Summit Logistics 198,John Johnson,636-476-3634,Taylor Swift,Termed,"P, G",2023-07-30,2023-10-02,2024-04-10
+CLI-0167,Zenith Consulting 673,Kevin Brown,219-635-2013,Taylor Swift,Active,"P, G",2024-04-13,2024-06-17,N/A
+CLI-0168,Global Holdings 982,Amanda Davis,604-301-6891,Morgan Vance,Termed,G,2023-09-30,2023-11-17,2025-06-14
+CLI-0169,Quantum Technologies 301,Kevin Thomas,714-827-5431,Jordan Lee,Cancelled,G,2024-06-19,N/A,2024-06-21
+CLI-0170,Zenith Solutions 369,Rachel Johnson,358-287-4390,Samira Khan,Active,"B, G",2023-04-19,2023-06-27,N/A
+CLI-0171,Zenith Logistics 383,Rachel Wilson,316-967-9623,Casey Sterling,Active,"B, P, Q",2023-04-23,2023-06-06,N/A
+CLI-0172,Zenith Enterprise 198,Sarah Johnson,827-212-3810,Morgan Vance,Terming,Q,2023-04-28,2023-06-21,2024-01-27
+CLI-0173,Omni Industries 282,Sarah Miller,459-759-3010,Devon Brooks,Active,"P, G",2023-05-04,2023-06-28,N/A
+CLI-0174,Sterling Holdings 722,Robert Rodriguez,801-499-6624,Morgan Vance,Active,P,2024-09-10,2024-11-07,N/A
+CLI-0175,Meridian Logistics 441,Rachel Thomas,829-809-4920,Taylor Swift,Active,"B, P",2024-03-01,2024-05-02,N/A
+CLI-0176,Nexus Consulting 763,Rachel Wilson,780-448-8999,Casey Sterling,Active,"B, P",2023-03-15,2023-04-26,N/A
+CLI-0177,Zenith Partners 665,Jessica Miller,801-359-8462,Jordan Lee,Termed,"B, G",2023-11-09,2023-12-27,2024-08-24
+CLI-0178,Apex Solutions 552,Rachel Anderson,563-287-8736,Devon Brooks,Termed,B,2024-07-01,2024-08-19,2025-11-29
+CLI-0179,Quantum Solutions 897,Megan Wilson,613-441-5998,Taylor Swift,Active,"P, G",2024-09-23,2024-12-01,N/A
+CLI-0180,Dynamic Technologies 132,Emily Wilson,928-304-1581,Morgan Vance,Active,G,2024-11-26,2025-01-17,N/A
+CLI-0181,Dynamic Systems 701,Jessica Johnson,449-974-6560,Casey Sterling,Active,B,2024-06-02,2024-07-15,N/A
+CLI-0182,Veridian Technologies 616,Michael Garcia,402-247-6591,Devon Brooks,Termed,"B, P",2024-03-01,2024-04-24,2025-10-27
+CLI-0183,Summit Logistics 504,Amanda Thomas,512-264-3361,Casey Sterling,Active,Q,2024-08-21,2024-10-07,N/A
+CLI-0184,Summit Partners 408,James Garcia,504-470-6976,Casey Sterling,Cancelled,B,2024-03-20,N/A,2024-03-29
+CLI-0185,Dynamic Holdings 736,Sarah Johnson,828-807-7633,Alex Mercer,Termed,"B, P, Q",2023-10-16,2023-11-20,2025-11-12
+CLI-0186,Dynamic Solutions 795,Kevin Taylor,553-127-8097,Taylor Swift,Initiation,"P, G",2023-06-26,N/A,N/A
+CLI-0187,Nexus Enterprise 415,Sarah Johnson,693-297-4648,Jordan Lee,Active,P,2023-01-22,2023-03-23,N/A
+CLI-0188,Pioneer Partners 870,John Johnson,297-243-4750,Samira Khan,Active,"B, P, Q",2023-10-21,2023-12-29,N/A
+CLI-0189,Atlas Systems 485,Brian Wilson,810-803-2854,Alex Mercer,Active,"B, P, Q",2023-10-04,2023-11-11,N/A
+CLI-0190,Summit Industries 278,Ashley Brown,413-754-7519,Casey Sterling,Terming,G,2024-08-26,2024-10-13,2025-12-27
+CLI-0191,Veridian Systems 612,John Garcia,257-895-8193,Alex Mercer,Initiation,B,2023-09-11,N/A,N/A
+CLI-0192,Nexus Solutions 169,David Garcia,243-196-2577,Morgan Vance,Termed,"B, P, Q",2024-03-11,2024-05-02,2025-05-03
+CLI-0193,Global Industries 738,Brian Garcia,467-685-1007,Morgan Vance,Termed,G,2024-04-29,2024-06-17,2026-03-05
+CLI-0194,Pioneer Solutions 664,John Thomas,303-309-7971,Morgan Vance,Cancelled,P,2024-01-22,N/A,2024-02-04
+CLI-0195,Atlas Technologies 367,David Martinez,825-974-5135,Samira Khan,Active,B,2024-06-03,2024-08-04,N/A
+CLI-0196,Nexus Industries 527,Megan Martinez,812-359-8133,Samira Khan,Termed,Q,2024-06-27,2024-09-01,2026-04-07
+CLI-0197,Omni Consulting 336,Brian Thomas,215-228-9766,Casey Sterling,Termed,"B, P",2024-10-31,2024-12-09,2025-10-24
+CLI-0198,Pioneer Industries 711,Megan Miller,705-834-9438,Taylor Swift,Terming,Q,2023-12-19,2024-02-20,2026-02-14
+CLI-0199,Summit Industries 521,Rachel Thomas,844-326-1264,Morgan Vance,Termed,"P, G",2023-07-30,2023-09-21,2024-11-30
+CLI-0200,Global Technologies 567,Brian Johnson,563-975-3504,Casey Sterling,Active,"P, G",2023-05-11,2023-06-27,N/A
+CLI-0201,Veridian Group 997,James Anderson,959-317-9381,Alex Mercer,Active,G,2024-06-29,2024-08-11,N/A
+CLI-0202,Veridian Industries 637,David Johnson,513-174-8096,Devon Brooks,Cancelled,"P, G",2023-09-30,N/A,2023-10-05
+CLI-0203,Veridian Enterprise 501,Megan Martinez,982-958-9915,Casey Sterling,Terming,P,2024-04-27,2024-06-11,2025-04-14
+CLI-0204,Atlas Partners 619,Megan Davis,653-300-6779,Morgan Vance,Termed,"B, P, Q",2024-10-01,2024-11-14,2026-06-12
+CLI-0205,Atlas Group 367,Ashley Rodriguez,342-290-5628,Taylor Swift,Termed,"B, P",2023-10-29,2023-12-31,2025-12-13
+CLI-0206,Meridian Consulting 878,Jessica Anderson,600-650-1392,Taylor Swift,Initiation,"B, P, Q",2023-07-29,N/A,N/A
+CLI-0207,Atlas Systems 957,David Smith,845-350-7362,Devon Brooks,Active,P,2024-07-11,2024-08-30,N/A
+CLI-0208,Veridian Solutions 921,Rachel Brown,700-939-6661,Devon Brooks,Active,G,2023-10-08,2023-11-29,N/A
+CLI-0209,Sterling Group 952,Amanda Thomas,353-713-2750,Samira Khan,Termed,Q,2024-09-13,2024-11-12,2026-03-12
+CLI-0210,Global Holdings 819,David Rodriguez,483-272-8230,Alex Mercer,Active,"B, P, Q",2024-09-24,2024-10-31,N/A
+CLI-0211,Apex Logistics 787,Jessica Thomas,319-536-3723,Alex Mercer,Active,"B, G",2024-11-03,2024-12-15,N/A
+CLI-0212,Quantum Industries 300,Jessica Rodriguez,853-302-2762,Alex Mercer,Active,"P, G",2023-02-10,2023-03-20,N/A
+CLI-0213,Vanguard Solutions 348,Brian Brown,975-613-8804,Samira Khan,Active,"B, G",2023-05-07,2023-07-18,N/A
+CLI-0214,Global Industries 273,Robert Taylor,261-980-3479,Samira Khan,Active,Q,2024-07-29,2024-10-08,N/A
+CLI-0215,Omni Logistics 625,Michael Jones,966-760-2348,Morgan Vance,Active,G,2023-07-20,2023-09-08,N/A
+CLI-0216,Omni Systems 674,Jessica Williams,681-827-8468,Devon Brooks,Active,G,2024-03-13,2024-05-08,N/A
+CLI-0217,Veridian Systems 773,Rachel Rodriguez,858-125-7748,Samira Khan,Cancelled,Q,2024-07-03,N/A,2024-07-23
+CLI-0218,Summit Logistics 712,John Taylor,378-231-2846,Devon Brooks,Active,G,2024-02-10,2024-04-06,N/A
+CLI-0219,Atlas Logistics 560,Kevin Williams,691-293-3007,Jordan Lee,Active,B,2024-08-06,2024-09-26,N/A
+CLI-0220,Nexus Logistics 929,Emily Miller,413-764-7716,Morgan Vance,Cancelled,Q,2024-10-09,N/A,2024-10-28
+CLI-0221,Omni Technologies 210,Megan Wilson,648-540-3800,Taylor Swift,Active,Q,2024-03-07,2024-05-18,N/A
+CLI-0222,Zenith Holdings 546,Jessica Garcia,888-752-5796,Samira Khan,Termed,B,2023-07-09,2023-09-12,2025-05-18
+CLI-0223,Apex Enterprise 572,Jessica Anderson,801-906-1340,Casey Sterling,Cancelled,"P, G",2024-09-09,N/A,2024-09-20
+CLI-0224,Apex Logistics 271,Emily Thomas,432-876-6463,Casey Sterling,Active,B,2024-07-24,2024-09-06,N/A
+CLI-0225,Sterling Enterprise 443,Robert Rodriguez,750-496-6823,Taylor Swift,Initiation,Q,2023-11-29,N/A,N/A
+CLI-0226,Meridian Partners 840,Rachel Taylor,200-267-9210,Morgan Vance,Termed,"B, P",2023-04-19,2023-06-11,2024-10-27
+CLI-0227,Global Group 302,Sarah Taylor,801-202-1987,Jordan Lee,Terming,B,2023-06-23,2023-08-13,2025-08-11
+CLI-0228,Dynamic Holdings 518,Kevin Davis,888-786-2875,Jordan Lee,Active,G,2024-11-03,2025-01-01,N/A
+CLI-0229,Omni Technologies 894,Jessica Johnson,684-758-2774,Morgan Vance,Active,B,2023-11-28,2024-01-23,N/A
+CLI-0230,Veridian Holdings 610,John Davis,969-896-5200,Jordan Lee,Active,Q,2023-09-23,2023-11-20,N/A
+CLI-0231,Omni Logistics 823,Michael Williams,317-812-8544,Devon Brooks,Termed,G,2024-03-29,2024-05-23,2026-04-11
+CLI-0232,Summit Technologies 892,Michael Taylor,877-486-7031,Samira Khan,Active,B,2023-09-25,2023-11-24,N/A
+CLI-0233,Quantum Technologies 433,Brian Smith,510-912-2998,Jordan Lee,Termed,"P, G",2023-02-18,2023-04-18,2024-01-25
+CLI-0234,Dynamic Holdings 703,John Davis,607-604-8461,Morgan Vance,Active,Q,2024-10-19,2024-12-03,N/A
+CLI-0235,Meridian Enterprise 745,David Taylor,574-172-5020,Samira Khan,Termed,G,2023-12-30,2024-02-27,2025-07-21
+CLI-0236,Zenith Industries 894,David Anderson,371-946-6160,Devon Brooks,Initiation,Q,2024-07-13,N/A,N/A
+CLI-0237,Sterling Solutions 931,Ashley Martinez,317-711-5000,Devon Brooks,Active,G,2023-01-07,2023-02-24,N/A
+CLI-0238,Meridian Enterprise 358,James Garcia,392-658-6906,Casey Sterling,Active,P,2024-02-23,2024-04-11,N/A
+CLI-0239,Global Logistics 434,Brian Thomas,594-916-2829,Casey Sterling,Active,"B, G",2024-09-19,2024-11-03,N/A
+CLI-0240,Apex Technologies 323,Megan Miller,230-487-6744,Casey Sterling,Termed,"P, G",2024-01-11,2024-02-25,2025-07-11
+CLI-0241,Veridian Industries 497,David Martinez,756-871-8833,Taylor Swift,Active,Q,2024-03-23,2024-06-01,N/A
+CLI-0242,Apex Group 332,Ashley Williams,461-926-7268,Devon Brooks,Active,P,2024-04-29,2024-06-22,N/A
+CLI-0243,Zenith Solutions 950,Kevin Jones,369-223-9036,Taylor Swift,Termed,G,2023-07-20,2023-09-18,2024-02-01
+CLI-0244,Sterling Solutions 256,Brian Thomas,699-208-4807,Samira Khan,Active,"B, P",2024-05-03,2024-06-30,N/A
+CLI-0245,Nexus Enterprise 848,Kevin Johnson,564-953-5916,Taylor Swift,Termed,Q,2024-07-07,2024-09-06,2025-12-25
+CLI-0246,Quantum Industries 205,Kevin Williams,961-596-1340,Samira Khan,Terming,"B, P",2023-10-27,2024-01-03,2025-02-24
+CLI-0247,Quantum Solutions 189,Jessica Williams,584-703-7626,Casey Sterling,Cancelled,Q,2024-03-10,N/A,2024-04-08
+CLI-0248,Omni Group 146,Sarah Williams,963-949-3151,Samira Khan,Cancelled,P,2023-06-14,N/A,2023-06-21
+CLI-0249,Nexus Consulting 322,James Garcia,483-616-9848,Casey Sterling,Active,Q,2023-03-05,2023-04-22,N/A
+CLI-0250,Veridian Logistics 217,James Johnson,466-921-2708,Devon Brooks,Termed,"B, P",2024-01-30,2024-03-21,2025-09-07
+CLI-0251,Vanguard Consulting 414,James Smith,383-119-2960,Samira Khan,Initiation,"P, G",2024-06-12,N/A,N/A
+CLI-0252,Apex Group 928,David Williams,865-403-6867,Morgan Vance,Termed,"B, P, Q",2024-11-25,2025-01-09,2025-06-19
+CLI-0253,Veridian Logistics 203,Brian Smith,415-506-5494,Taylor Swift,Active,B,2024-05-13,2024-07-13,N/A
+CLI-0254,Apex Enterprise 649,Sarah Williams,930-181-5699,Taylor Swift,Cancelled,"B, P, Q",2023-12-31,N/A,2024-01-03
+CLI-0255,Quantum Systems 121,John Garcia,315-948-3384,Alex Mercer,Active,"B, G",2023-05-27,2023-07-06,N/A
+CLI-0256,Sterling Partners 150,David Martinez,212-593-2724,Devon Brooks,Terming,P,2024-04-24,2024-06-13,2025-07-26
+CLI-0257,Pioneer Group 950,Emily Martinez,765-909-1276,Morgan Vance,Termed,"B, G",2024-06-30,2024-08-25,2025-04-04
+CLI-0258,Atlas Enterprise 727,David Johnson,463-893-5208,Devon Brooks,Initiation,Q,2023-03-06,N/A,N/A
+CLI-0259,Veridian Consulting 457,Jessica Rodriguez,748-100-6668,Casey Sterling,Termed,"B, P",2023-07-07,2023-08-22,2024-02-24
+CLI-0260,Pioneer Group 202,Sarah Brown,746-293-4175,Devon Brooks,Active,"P, G",2024-01-19,2024-03-07,N/A
+CLI-0261,Apex Logistics 476,Rachel Miller,274-454-4655,Taylor Swift,Cancelled,"B, P",2024-11-15,N/A,2024-11-17
+CLI-0262,Omni Industries 998,Kevin Taylor,282-222-9549,Jordan Lee,Initiation,"B, P, Q",2023-06-11,N/A,N/A
+CLI-0263,Dynamic Solutions 755,Ashley Anderson,855-457-8355,Jordan Lee,Initiation,"B, P",2023-07-03,N/A,N/A
+CLI-0264,Apex Holdings 352,Megan Johnson,494-550-3951,Devon Brooks,Termed,"P, G",2024-07-20,2024-09-13,2026-08-03
+CLI-0265,Dynamic Industries 289,Kevin Davis,764-906-3368,Alex Mercer,Cancelled,"B, P",2024-06-16,N/A,2024-07-05
+CLI-0266,Meridian Holdings 537,James Williams,512-380-1182,Devon Brooks,Termed,P,2023-01-10,2023-02-27,2024-07-26
+CLI-0267,Zenith Partners 485,Emily Brown,859-259-7555,Samira Khan,Termed,"B, G",2023-01-22,2023-04-03,2024-02-16
+CLI-0268,Global Systems 225,Kevin Martinez,670-875-6585,Morgan Vance,Active,"P, G",2023-10-17,2023-11-29,N/A
+CLI-0269,Nexus Systems 937,Brian Rodriguez,915-660-8758,Alex Mercer,Initiation,P,2023-06-03,N/A,N/A
+CLI-0270,Sterling Enterprise 111,Michael Miller,493-308-7056,Samira Khan,Active,B,2023-06-06,2023-08-14,N/A
+CLI-0271,Atlas Systems 971,Brian Rodriguez,776-718-5232,Taylor Swift,Termed,G,2024-09-03,2024-11-03,2025-05-22
+CLI-0272,Nexus Consulting 825,David Smith,397-723-7091,Taylor Swift,Initiation,P,2024-04-15,N/A,N/A
+CLI-0273,Quantum Holdings 975,Ashley Taylor,928-731-8094,Jordan Lee,Active,"B, P",2023-08-23,2023-10-19,N/A
+CLI-0274,Omni Technologies 146,James Smith,735-975-1522,Alex Mercer,Terming,B,2024-08-28,2024-10-10,2026-05-25
+CLI-0275,Dynamic Logistics 401,Jessica Williams,922-751-2316,Jordan Lee,Active,"P, G",2023-10-31,2023-12-21,N/A
+CLI-0276,Dynamic Solutions 686,Megan Rodriguez,554-402-2519,Jordan Lee,Cancelled,Q,2023-08-24,N/A,2023-09-02
+CLI-0277,Global Consulting 332,Megan Davis,212-309-9588,Morgan Vance,Termed,"B, G",2024-10-10,2024-11-29,2025-07-12
+CLI-0278,Meridian Holdings 352,Brian Miller,299-720-2772,Jordan Lee,Active,"B, G",2023-09-20,2023-11-07,N/A
+CLI-0279,Dynamic Industries 357,Michael Williams,227-425-4220,Morgan Vance,Terming,"P, G",2023-03-06,2023-04-20,2024-12-02
+CLI-0280,Veridian Holdings 185,Megan Martinez,426-624-8480,Alex Mercer,Active,P,2024-07-18,2024-08-26,N/A
+CLI-0281,Quantum Solutions 502,Ashley Thomas,724-776-4173,Jordan Lee,Initiation,G,2024-02-02,N/A,N/A
+CLI-0282,Atlas Enterprise 417,Ashley Williams,586-210-3661,Alex Mercer,Termed,G,2024-06-19,2024-08-03,2025-11-14
+CLI-0283,Dynamic Consulting 138,Jessica Wilson,387-957-4923,Devon Brooks,Termed,"B, P, Q",2024-04-09,2024-05-31,2026-03-25
+CLI-0284,Summit Solutions 963,Ashley Anderson,994-601-6818,Devon Brooks,Termed,P,2024-02-25,2024-04-15,2025-07-09
+CLI-0285,Quantum Group 775,James Rodriguez,232-154-5025,Devon Brooks,Active,"P, G",2023-01-12,2023-03-13,N/A
+CLI-0286,Zenith Partners 329,Brian Jones,683-746-8395,Devon Brooks,Terming,"B, G",2023-11-27,2024-01-18,2024-10-28
+CLI-0287,Nexus Systems 861,Robert Rodriguez,703-555-9835,Taylor Swift,Terming,"B, P",2024-09-01,2024-11-01,2026-02-15
+CLI-0288,Atlas Solutions 944,Kevin Anderson,670-317-9707,Jordan Lee,Termed,"B, P, Q",2024-10-06,2024-11-27,2026-09-25
+CLI-0289,Meridian Industries 316,Jessica Johnson,530-242-7683,Samira Khan,Active,Q,2023-03-31,2023-06-08,N/A
+CLI-0290,Apex Group 122,Robert Wilson,640-125-8468,Taylor Swift,Active,"B, P",2024-03-31,2024-06-06,N/A
+CLI-0291,Sterling Logistics 663,Jessica Anderson,690-932-2072,Devon Brooks,Termed,"B, G",2024-03-13,2024-05-08,2026-01-26
+CLI-0292,Apex Systems 663,John Thomas,441-893-8763,Morgan Vance,Active,"B, G",2024-07-19,2024-08-30,N/A
+CLI-0293,Atlas Systems 575,Michael Miller,937-114-3783,Casey Sterling,Termed,"P, G",2024-03-28,2024-05-10,2025-04-28
+CLI-0294,Quantum Holdings 544,Rachel Miller,645-309-2932,Devon Brooks,Initiation,"P, G",2024-06-01,N/A,N/A
+CLI-0295,Quantum Systems 573,Kevin Garcia,627-592-9811,Alex Mercer,Active,Q,2023-11-29,2024-01-04,N/A
+CLI-0296,Omni Technologies 687,Brian Anderson,691-681-3743,Taylor Swift,Termed,B,2023-11-28,2024-02-06,2025-03-28
+CLI-0297,Omni Enterprise 313,John Johnson,218-410-1619,Taylor Swift,Terming,"B, P",2023-12-20,2024-02-18,2025-12-27
+CLI-0298,Atlas Consulting 800,Brian Jones,649-346-9711,Casey Sterling,Termed,"P, G",2023-12-18,2024-01-28,2025-08-04
+CLI-0299,Omni Logistics 536,Rachel Smith,626-138-4667,Jordan Lee,Termed,"P, G",2023-02-13,2023-04-07,2024-07-30
+CLI-0300,Summit Partners 745,Ashley Brown,812-611-5009,Devon Brooks,Cancelled,"B, G",2023-06-19,N/A,2023-07-17
+CLI-0301,Pioneer Solutions 901,Amanda Johnson,766-555-6722,Samira Khan,Active,B,2023-12-15,2024-02-13,N/A
+CLI-0302,Meridian Technologies 978,Megan Taylor,372-109-3787,Alex Mercer,Active,"B, P, Q",2024-10-28,2024-12-03,N/A
+CLI-0303,Quantum Systems 771,David Smith,871-700-5422,Alex Mercer,Cancelled,G,2024-09-20,N/A,2024-10-20
+CLI-0304,Veridian Consulting 897,David Williams,824-458-4674,Jordan Lee,Active,P,2024-11-15,2025-01-02,N/A
+CLI-0305,Zenith Enterprise 977,Kevin Brown,892-190-2105,Morgan Vance,Termed,B,2023-02-27,2023-04-22,2024-07-28
+CLI-0306,Vanguard Group 140,Jessica Davis,465-414-4786,Alex Mercer,Initiation,P,2023-07-12,N/A,N/A
+CLI-0307,Zenith Technologies 214,Sarah Miller,553-848-3780,Morgan Vance,Cancelled,Q,2024-10-22,N/A,2024-10-25
+CLI-0308,Veridian Holdings 756,Megan Wilson,602-208-1699,Devon Brooks,Termed,"B, P, Q",2023-06-03,2023-07-25,2025-06-28
+CLI-0309,Veridian Group 759,James Thomas,331-890-9275,Devon Brooks,Active,"B, P",2023-08-09,2023-09-30,N/A
+CLI-0310,Sterling Industries 673,John Williams,311-714-5570,Morgan Vance,Active,Q,2024-02-25,2024-04-07,N/A
+CLI-0311,Zenith Technologies 876,David Garcia,482-139-4607,Jordan Lee,Termed,P,2024-03-08,2024-04-28,2024-12-24
+CLI-0312,Nexus Enterprise 441,Amanda Brown,478-976-1580,Devon Brooks,Active,"P, G",2024-11-11,2025-01-03,N/A
+CLI-0313,Apex Technologies 996,Kevin Rodriguez,899-665-6445,Casey Sterling,Terming,"B, G",2024-01-26,2024-03-10,2024-08-01
+CLI-0314,Zenith Systems 447,Kevin Brown,714-483-6810,Samira Khan,Terming,G,2023-02-07,2023-04-08,2024-10-29
+CLI-0315,Sterling Logistics 189,Jessica Rodriguez,542-925-9497,Samira Khan,Active,B,2023-04-22,2023-06-29,N/A
+CLI-0316,Veridian Industries 445,David Thomas,384-481-5591,Taylor Swift,Termed,G,2024-07-04,2024-09-17,2026-04-03
+CLI-0317,Veridian Group 168,Emily Jones,509-760-2991,Alex Mercer,Active,"B, P, Q",2023-07-21,2023-09-04,N/A
+CLI-0318,Meridian Consulting 269,Michael Thomas,720-750-4551,Jordan Lee,Active,B,2024-07-13,2024-08-30,N/A
+CLI-0319,Vanguard Consulting 650,John Martinez,301-852-6310,Alex Mercer,Active,B,2024-05-03,2024-06-14,N/A
+CLI-0320,Global Technologies 982,Michael Garcia,982-195-2914,Samira Khan,Termed,"B, P, Q",2024-01-13,2024-03-17,2025-10-06
+CLI-0321,Meridian Systems 924,Rachel Rodriguez,792-517-1680,Casey Sterling,Active,"P, G",2023-09-19,2023-10-30,N/A
+CLI-0322,Meridian Holdings 276,Jessica Jones,714-436-8742,Alex Mercer,Terming,"B, P, Q",2023-04-19,2023-05-30,2024-02-05
+CLI-0323,Meridian Group 510,Sarah Smith,673-882-4171,Morgan Vance,Active,Q,2023-02-12,2023-03-28,N/A
+CLI-0324,Nexus Systems 419,Amanda Thomas,469-773-5796,Devon Brooks,Active,Q,2023-06-17,2023-08-03,N/A
+CLI-0325,Omni Holdings 963,James Smith,652-382-1389,Casey Sterling,Termed,"P, G",2024-04-27,2024-06-06,2026-03-19
+CLI-0326,Nexus Partners 133,Brian Martinez,657-188-4731,Devon Brooks,Active,"B, P, Q",2024-05-28,2024-07-19,N/A
+CLI-0327,Apex Technologies 204,Emily Williams,512-939-4277,Devon Brooks,Cancelled,"B, G",2024-08-17,N/A,2024-09-05
+CLI-0328,Sterling Partners 849,Michael Brown,663-939-8291,Alex Mercer,Active,"P, G",2024-07-18,2024-09-01,N/A
+CLI-0329,Dynamic Technologies 376,James Martinez,339-500-3949,Alex Mercer,Active,G,2023-03-10,2023-04-19,N/A
+CLI-0330,Apex Partners 335,Amanda Martinez,232-417-1049,Alex Mercer,Terming,"B, P",2024-03-25,2024-05-05,2025-09-28
+CLI-0331,Meridian Technologies 829,Sarah Taylor,283-793-3438,Devon Brooks,Active,"B, P, Q",2024-02-07,2024-04-07,N/A
+CLI-0332,Atlas Consulting 125,Emily Taylor,959-503-8196,Jordan Lee,Termed,B,2024-07-22,2024-09-12,2025-06-16
+CLI-0333,Quantum Group 617,Rachel Taylor,401-116-1517,Jordan Lee,Active,"P, G",2024-11-11,2024-12-30,N/A
+CLI-0334,Dynamic Technologies 387,Michael Wilson,667-524-4802,Alex Mercer,Active,Q,2024-01-22,2024-03-06,N/A
+CLI-0335,Nexus Logistics 497,Michael Rodriguez,407-613-6755,Jordan Lee,Terming,P,2024-03-14,2024-05-04,2025-02-06
+CLI-0336,Apex Consulting 519,Kevin Miller,219-652-3195,Morgan Vance,Active,Q,2024-01-02,2024-02-14,N/A
+CLI-0337,Summit Industries 120,Rachel Jones,333-818-2306,Jordan Lee,Active,"B, G",2024-07-13,2024-09-01,N/A
+CLI-0338,Vanguard Partners 659,John Martinez,299-158-3555,Jordan Lee,Termed,B,2024-08-17,2024-10-10,2025-08-31
+CLI-0339,Summit Industries 225,James Martinez,861-659-2271,Samira Khan,Cancelled,"P, G",2023-01-25,N/A,2023-02-07
+CLI-0340,Veridian Enterprise 893,Megan Smith,500-167-1816,Alex Mercer,Active,B,2024-10-11,2024-11-18,N/A
+CLI-0341,Pioneer Industries 330,John Taylor,245-717-8071,Samira Khan,Termed,B,2024-01-05,2024-03-13,2024-07-04
+CLI-0342,Nexus Logistics 107,Michael Williams,955-606-2364,Devon Brooks,Termed,"B, P, Q",2023-09-28,2023-11-15,2025-09-09
+CLI-0343,Meridian Group 141,Brian Rodriguez,447-959-5138,Alex Mercer,Terming,P,2023-07-31,2023-09-11,2023-12-18
+CLI-0344,Atlas Industries 108,Sarah Jones,350-210-6166,Devon Brooks,Active,"P, G",2023-03-10,2023-05-04,N/A
+CLI-0345,Nexus Consulting 922,Michael Garcia,402-160-6041,Taylor Swift,Active,B,2023-11-27,2024-02-10,N/A
+CLI-0346,Veridian Group 725,Michael Thomas,503-602-2361,Samira Khan,Active,G,2024-03-18,2024-05-29,N/A
+CLI-0347,Apex Industries 920,Kevin Garcia,885-486-2993,Samira Khan,Terming,"B, G",2024-08-25,2024-11-04,2026-05-11
+CLI-0348,Pioneer Group 565,Ashley Smith,272-608-8786,Alex Mercer,Active,G,2024-11-24,2025-01-02,N/A
+CLI-0349,Apex Partners 379,John Johnson,767-286-3817,Casey Sterling,Termed,Q,2023-07-07,2023-08-19,2024-12-10
+CLI-0350,Quantum Enterprise 244,Michael Anderson,818-648-8697,Jordan Lee,Active,"B, G",2023-05-19,2023-07-12,N/A
+CLI-0351,Omni Holdings 584,John Taylor,971-313-9326,Casey Sterling,Active,"B, G",2023-07-26,2023-09-02,N/A
+CLI-0352,Apex Group 589,Robert Williams,953-220-8552,Samira Khan,Active,"B, G",2024-10-06,2024-12-03,N/A
+CLI-0353,Apex Enterprise 910,Ashley Anderson,220-341-3668,Devon Brooks,Terming,Q,2023-03-10,2023-04-24,2024-01-04
+CLI-0354,Meridian Consulting 134,Megan Anderson,482-411-5841,Devon Brooks,Active,"B, P",2023-11-15,2024-01-08,N/A
+CLI-0355,Global Partners 870,Jessica Garcia,352-848-3591,Devon Brooks,Termed,G,2024-09-13,2024-11-06,2025-06-30
+CLI-0356,Quantum Technologies 933,Ashley Wilson,296-980-7972,Alex Mercer,Initiation,"B, P",2024-06-30,N/A,N/A
+CLI-0357,Dynamic Group 198,Robert Miller,624-729-1086,Alex Mercer,Active,"B, G",2024-02-18,2024-04-01,N/A
+CLI-0358,Summit Holdings 391,Emily Rodriguez,484-338-2700,Devon Brooks,Active,"P, G",2024-01-07,2024-03-06,N/A
+CLI-0359,Dynamic Industries 351,Robert Taylor,600-346-4687,Casey Sterling,Terming,"P, G",2024-09-11,2024-10-20,2026-08-16
+CLI-0360,Summit Consulting 328,Emily Miller,488-513-9912,Samira Khan,Active,P,2024-05-13,2024-07-23,N/A
+CLI-0361,Meridian Technologies 735,Ashley Wilson,314-773-8178,Samira Khan,Active,"B, P, Q",2023-05-07,2023-07-06,N/A
+CLI-0362,Omni Partners 926,Emily Thomas,611-763-8751,Taylor Swift,Cancelled,"B, P, Q",2023-10-16,N/A,2023-11-15
+CLI-0363,Sterling Holdings 185,Sarah Williams,394-429-7318,Jordan Lee,Active,P,2023-12-20,2024-02-05,N/A
+CLI-0364,Global Enterprise 196,Kevin Miller,292-338-1204,Alex Mercer,Active,"B, P",2023-10-22,2023-12-03,N/A
+CLI-0365,Veridian Group 262,Ashley Smith,270-368-6126,Jordan Lee,Active,"B, P",2023-07-12,2023-08-26,N/A
+CLI-0366,Meridian Solutions 624,Rachel Smith,370-636-9442,Casey Sterling,Active,"B, P",2024-09-20,2024-11-07,N/A
+CLI-0367,Meridian Systems 625,Ashley Anderson,343-124-4893,Morgan Vance,Terming,"B, G",2023-04-03,2023-05-30,2024-09-25
+CLI-0368,Meridian Solutions 943,David Anderson,829-844-1717,Casey Sterling,Active,P,2024-03-04,2024-04-13,N/A
+CLI-0369,Sterling Technologies 971,Brian Jones,741-156-7801,Taylor Swift,Active,P,2024-10-09,2024-12-13,N/A
+CLI-0370,Zenith Technologies 174,Emily Anderson,950-284-6991,Morgan Vance,Termed,G,2023-02-18,2023-04-13,2023-09-01
+CLI-0371,Veridian Consulting 926,Michael Taylor,756-434-1531,Casey Sterling,Cancelled,"B, P",2023-11-19,N/A,2023-12-08
+CLI-0372,Vanguard Logistics 177,David Miller,405-931-6626,Morgan Vance,Terming,P,2024-04-23,2024-06-14,2024-11-16
+CLI-0373,Apex Group 962,Brian Thomas,434-997-1670,Morgan Vance,Initiation,"B, G",2023-02-17,N/A,N/A
+CLI-0374,Dynamic Logistics 216,John Brown,335-300-1249,Jordan Lee,Termed,"B, P",2024-04-24,2024-06-17,2025-12-28
+CLI-0375,Zenith Holdings 211,Sarah Williams,684-310-8871,Morgan Vance,Terming,"B, P, Q",2023-04-02,2023-05-22,2024-02-25
+CLI-0376,Nexus Systems 166,Emily Taylor,641-500-1990,Taylor Swift,Active,P,2024-05-04,2024-07-07,N/A
+CLI-0377,Pioneer Partners 960,James Miller,773-943-4516,Casey Sterling,Terming,"B, G",2024-06-03,2024-07-18,2024-11-13
+CLI-0378,Atlas Holdings 692,John Garcia,436-485-2629,Samira Khan,Termed,G,2024-01-30,2024-04-11,2025-05-11
+CLI-0379,Apex Enterprise 244,Sarah Wilson,713-277-7539,Taylor Swift,Termed,P,2023-11-14,2024-01-28,2025-03-31
+CLI-0380,Sterling Logistics 353,Rachel Miller,704-338-5290,Samira Khan,Terming,"B, P",2023-05-09,2023-07-19,2024-02-19
+CLI-0381,Quantum Consulting 825,James Wilson,821-880-1922,Morgan Vance,Termed,P,2024-03-12,2024-05-07,2025-01-28
+CLI-0382,Sterling Systems 723,Jessica Davis,539-968-7483,Morgan Vance,Active,"B, G",2024-11-07,2024-12-24,N/A
+CLI-0383,Nexus Partners 976,Kevin Jones,807-774-6710,Casey Sterling,Cancelled,"P, G",2024-11-20,N/A,2024-12-06
+CLI-0384,Zenith Industries 226,Emily Rodriguez,255-465-9092,Devon Brooks,Termed,"P, G",2023-09-15,2023-11-06,2024-11-30
+CLI-0385,Global Group 993,Sarah Miller,967-649-3735,Taylor Swift,Termed,Q,2023-04-01,2023-06-15,2025-03-08
+CLI-0386,Quantum Technologies 774,Ashley Williams,564-958-7396,Casey Sterling,Active,G,2024-04-03,2024-05-21,N/A
+CLI-0387,Apex Group 381,James Williams,707-403-7644,Taylor Swift,Initiation,"B, P, Q",2024-04-06,N/A,N/A
+CLI-0388,Dynamic Systems 547,Amanda Johnson,632-455-7047,Devon Brooks,Termed,Q,2024-03-17,2024-05-03,2025-11-28
+CLI-0389,Atlas Consulting 472,James Jones,324-237-1067,Casey Sterling,Cancelled,Q,2024-11-13,N/A,2024-11-15
+CLI-0390,Vanguard Consulting 591,Ashley Taylor,864-375-3258,Devon Brooks,Termed,"P, G",2024-11-25,2025-01-20,2025-09-27
+CLI-0391,Atlas Holdings 772,Brian Jones,762-760-3827,Jordan Lee,Cancelled,B,2023-06-19,N/A,2023-07-09
+CLI-0392,Vanguard Partners 152,Emily Rodriguez,213-814-5383,Taylor Swift,Termed,Q,2024-07-20,2024-09-23,2026-03-07
+CLI-0393,Global Consulting 951,Brian Jones,844-442-2448,Taylor Swift,Terming,B,2023-07-01,2023-09-08,2024-01-09
+CLI-0394,Veridian Partners 404,Robert Brown,392-754-1615,Morgan Vance,Initiation,P,2023-04-03,N/A,N/A
+CLI-0395,Quantum Consulting 767,Rachel Thomas,633-503-5529,Alex Mercer,Cancelled,Q,2023-07-26,N/A,2023-08-07
+CLI-0396,Apex Systems 753,Amanda Miller,731-321-3690,Morgan Vance,Active,"P, G",2023-01-13,2023-03-08,N/A
+CLI-0397,Global Industries 576,Michael Jones,941-933-4875,Samira Khan,Cancelled,"B, G",2023-05-30,N/A,2023-06-19
+CLI-0398,Global Consulting 772,Amanda Taylor,495-820-5735,Morgan Vance,Termed,"B, G",2024-06-02,2024-07-29,2024-11-10
+CLI-0399,Global Systems 655,Brian Garcia,354-280-8382,Devon Brooks,Active,Q,2023-07-31,2023-09-18,N/A
+CLI-0400,Vanguard Group 218,Ashley Smith,950-322-7774,Alex Mercer,Active,"B, P, Q",2024-01-01,2024-02-08,N/A
+CLI-0401,Summit Group 425,Megan Davis,508-730-4856,Jordan Lee,Termed,Q,2024-05-08,2024-07-02,2024-12-06
+CLI-0402,Summit Technologies 319,Michael Davis,563-669-9954,Morgan Vance,Initiation,"B, G",2024-07-17,N/A,N/A
+CLI-0403,Dynamic Logistics 473,James Brown,837-907-9775,Morgan Vance,Active,"B, G",2023-04-20,2023-06-08,N/A
+CLI-0404,Nexus Partners 244,Kevin Thomas,767-159-1649,Devon Brooks,Active,G,2024-09-28,2024-11-24,N/A
+CLI-0405,Global Industries 723,Jessica Jones,993-185-6457,Samira Khan,Termed,"B, P, Q",2024-01-11,2024-03-15,2026-02-14
+CLI-0406,Sterling Holdings 175,Robert Martinez,501-195-8357,Casey Sterling,Active,P,2024-02-28,2024-04-13,N/A
+CLI-0407,Pioneer Holdings 868,David Anderson,311-927-6462,Alex Mercer,Active,"B, P, Q",2024-05-04,2024-06-16,N/A
+CLI-0408,Summit Consulting 785,Robert Wilson,380-283-9417,Alex Mercer,Active,B,2024-11-18,2024-12-24,N/A
+CLI-0409,Meridian Technologies 510,David Anderson,598-205-7094,Devon Brooks,Active,"B, P",2023-02-01,2023-03-26,N/A
+CLI-0410,Omni Group 740,Amanda Brown,417-830-8124,Jordan Lee,Active,B,2024-03-22,2024-05-17,N/A
+CLI-0411,Quantum Technologies 781,Megan Miller,410-543-1226,Jordan Lee,Active,"B, P, Q",2023-07-06,2023-08-28,N/A
+CLI-0412,Dynamic Systems 142,Rachel Garcia,428-489-6074,Casey Sterling,Cancelled,P,2023-09-27,N/A,2023-10-19
+CLI-0413,Meridian Enterprise 260,Jessica Anderson,750-171-2695,Taylor Swift,Active,"P, G",2023-04-30,2023-07-10,N/A
