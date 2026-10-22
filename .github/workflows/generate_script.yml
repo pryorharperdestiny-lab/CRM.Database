@@ -27,6 +27,15 @@ jobs:
     - name: Run Data Generator
       run: python scripts/generate_data.py
       
-# 5. Run the analysis script to print the summary reports
+# Run the analysis script to print the summary reports
     - name: Run CRM Analysis Script
       run: python scripts/crm_analysis.py
+
+# Automatically commit and push the newly generated versioned CSV back to the repo
+    - name: Commit Generated CSV
+      run: |
+        git config --global user.name 'GitHub Actions Bot'
+        git config --global user.email 'actions@github.com'
+        git add data/v*mock_crm_database.csv
+        git commit -m "Auto-generated fresh CRM dataset version via GitHub Actions" || echo "No changes to commit"
+        git push
