@@ -6,6 +6,10 @@ on:
       - 'scripts/generate_data.py'
   workflow_dispatch:               # Allows you to click a manual button to regenerate data
 
+# Grant GitHub Actions permission to write/push changes back to the repo
+permissions:
+  contents: write
+
 jobs:
   generate-data:
     runs-on: ubuntu-latest
